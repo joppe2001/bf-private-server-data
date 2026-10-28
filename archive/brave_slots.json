@@ -1,0 +1,758 @@
+[
+    {
+        "key": "jewel_god",
+        "weight": 1,
+        "reels": [
+            81,
+            81,
+            81
+        ],
+        "prize_rank": "4",
+        "present_type": 6,
+        "target_id": 50133,
+        "target_cnt": 1,
+        "description": "Jewel God"
+    },
+    {
+        "key": "jewel_king",
+        "weight": 3,
+        "reels": [
+            9,
+            9,
+            9
+        ],
+        "prize_rank": "3",
+        "present_type": 6,
+        "target_id": 50132,
+        "target_cnt": 1,
+        "description": "Jewel King"
+    },
+    {
+        "key": "god_fire",
+        "weight": 1,
+        "reels": [
+            80,
+            80,
+            80
+        ],
+        "prize_rank": "3",
+        "present_type": 6,
+        "target_id": 10204,
+        "target_cnt": 1,
+        "description": "Fire God"
+    },
+    {
+        "key": "god_water",
+        "weight": 1,
+        "reels": [
+            80,
+            80,
+            80
+        ],
+        "prize_rank": "3",
+        "present_type": 6,
+        "target_id": 20204,
+        "target_cnt": 1,
+        "description": "Water God"
+    },
+    {
+        "key": "god_earth",
+        "weight": 1,
+        "reels": [
+            80,
+            80,
+            80
+        ],
+        "prize_rank": "3",
+        "present_type": 6,
+        "target_id": 30204,
+        "target_cnt": 1,
+        "description": "Earth God"
+    },
+    {
+        "key": "god_thunder",
+        "weight": 1,
+        "reels": [
+            80,
+            80,
+            80
+        ],
+        "prize_rank": "3",
+        "present_type": 6,
+        "target_id": 40204,
+        "target_cnt": 1,
+        "description": "Thunder God"
+    },
+    {
+        "key": "god_light",
+        "weight": 1,
+        "reels": [
+            80,
+            80,
+            80
+        ],
+        "prize_rank": "3",
+        "present_type": 6,
+        "target_id": 50204,
+        "target_cnt": 1,
+        "description": "Light God"
+    },
+    {
+        "key": "god_metal",
+        "weight": 1,
+        "reels": [
+            80,
+            80,
+            80
+        ],
+        "prize_rank": "3",
+        "present_type": 6,
+        "target_id": 60134,
+        "target_cnt": 1,
+        "description": "Metal God"
+    },
+    {
+        "key": "almighty_imp",
+        "weight": 5,
+        "reels": [
+            7,
+            7,
+            7
+        ],
+        "prize_rank": "3",
+        "present_type": 6,
+        "target_id": 50612,
+        "target_cnt": 1,
+        "description": "Almighty Imp Arton"
+    },
+    {
+        "key": "sphere_frog",
+        "weight": 10,
+        "reels": [
+            1,
+            1,
+            1
+        ],
+        "prize_rank": "2",
+        "present_type": 6,
+        "target_id": 20302,
+        "target_cnt": 1,
+        "description": "Sphere Frog"
+    },
+    {
+        "key": "burst_emperor",
+        "weight": 16,
+        "reels": [
+            3,
+            3,
+            3
+        ],
+        "prize_rank": "2",
+        "present_type": 6,
+        "target_id": 10313,
+        "target_cnt": 1,
+        "description": "Burst Emperor"
+    },
+    {
+        "key": "burst_frog",
+        "weight": 25,
+        "reels": [
+            2,
+            2,
+            2
+        ],
+        "prize_rank": "2",
+        "present_type": 6,
+        "target_id": 10312,
+        "target_cnt": 1,
+        "description": "Burst Frog"
+    },
+    {
+        "key": "imp_power",
+        "weight": 5,
+        "reels": [
+            6,
+            6,
+            6
+        ],
+        "prize_rank": "2",
+        "present_type": 6,
+        "target_id": 10452,
+        "target_cnt": 1,
+        "description": "Power Imp Pakpak"
+    },
+    {
+        "key": "imp_guard",
+        "weight": 5,
+        "reels": [
+            6,
+            6,
+            6
+        ],
+        "prize_rank": "2",
+        "present_type": 6,
+        "target_id": 20442,
+        "target_cnt": 1,
+        "description": "Guard Imp Ganju"
+    },
+    {
+        "key": "imp_healing",
+        "weight": 5,
+        "reels": [
+            6,
+            6,
+            6
+        ],
+        "prize_rank": "2",
+        "present_type": 6,
+        "target_id": 30432,
+        "target_cnt": 1,
+        "description": "Healing Imp Fwahl"
+    },
+    {
+        "key": "imp_vigor",
+        "weight": 5,
+        "reels": [
+            6,
+            6,
+            6
+        ],
+        "prize_rank": "2",
+        "present_type": 6,
+        "target_id": 40432,
+        "target_cnt": 1,
+        "description": "Vigor Imp Molin"
+    },
+    {
+        "key": "crystal_fire",
+        "weight": 5,
+        "reels": [
+            8,
+            8,
+            8
+        ],
+        "prize_rank": "2",
+        "present_type": 6,
+        "target_id": 10344,
+        "target_cnt": 1,
+        "description": "Fire Crystal"
+    },
+    {
+        "key": "crystal_water",
+        "weight": 5,
+        "reels": [
+            8,
+            8,
+            8
+        ],
+        "prize_rank": "2",
+        "present_type": 6,
+        "target_id": 20334,
+        "target_cnt": 1,
+        "description": "Water Crystal"
+    },
+    {
+        "key": "crystal_earth",
+        "weight": 5,
+        "reels": [
+            8,
+            8,
+            8
+        ],
+        "prize_rank": "2",
+        "present_type": 6,
+        "target_id": 30324,
+        "target_cnt": 1,
+        "description": "Earth Crystal"
+    },
+    {
+        "key": "crystal_thunder",
+        "weight": 5,
+        "reels": [
+            8,
+            8,
+            8
+        ],
+        "prize_rank": "2",
+        "present_type": 6,
+        "target_id": 40324,
+        "target_cnt": 1,
+        "description": "Thunder Crystal"
+    },
+    {
+        "key": "crystal_light",
+        "weight": 5,
+        "reels": [
+            8,
+            8,
+            8
+        ],
+        "prize_rank": "2",
+        "present_type": 6,
+        "target_id": 50364,
+        "target_cnt": 1,
+        "description": "Light Crystal"
+    },
+    {
+        "key": "crystal_dark",
+        "weight": 5,
+        "reels": [
+            8,
+            8,
+            8
+        ],
+        "prize_rank": "2",
+        "present_type": 6,
+        "target_id": 60334,
+        "target_cnt": 1,
+        "description": "Dark Crystal"
+    },
+    {
+        "key": "sphere_30008",
+        "weight": 1,
+        "reels": [
+            18,
+            18,
+            18
+        ],
+        "prize_rank": "2",
+        "present_type": 7,
+        "target_id": 30008,
+        "target_cnt": 1,
+        "description": "Sparkle Edge"
+    },
+    {
+        "key": "sphere_30108",
+        "weight": 1,
+        "reels": [
+            18,
+            18,
+            18
+        ],
+        "prize_rank": "2",
+        "present_type": 7,
+        "target_id": 30108,
+        "target_cnt": 1,
+        "description": "Sky Shield"
+    },
+    {
+        "key": "sphere_30208",
+        "weight": 1,
+        "reels": [
+            18,
+            18,
+            18
+        ],
+        "prize_rank": "2",
+        "present_type": 7,
+        "target_id": 30208,
+        "target_cnt": 1,
+        "description": "Ruler Staff"
+    },
+    {
+        "key": "sphere_30308",
+        "weight": 1,
+        "reels": [
+            18,
+            18,
+            18
+        ],
+        "prize_rank": "2",
+        "present_type": 7,
+        "target_id": 30308,
+        "target_cnt": 1,
+        "description": "Cosmos Armor"
+    },
+    {
+        "key": "sphere_30007",
+        "weight": 1,
+        "reels": [
+            18,
+            18,
+            18
+        ],
+        "prize_rank": "2",
+        "present_type": 7,
+        "target_id": 30007,
+        "target_cnt": 1,
+        "description": "Carnage Edge"
+    },
+    {
+        "key": "sphere_30107",
+        "weight": 1,
+        "reels": [
+            18,
+            18,
+            18
+        ],
+        "prize_rank": "2",
+        "present_type": 7,
+        "target_id": 30107,
+        "target_cnt": 1,
+        "description": "Ruler Shield"
+    },
+    {
+        "key": "sphere_30207",
+        "weight": 1,
+        "reels": [
+            18,
+            18,
+            18
+        ],
+        "prize_rank": "2",
+        "present_type": 7,
+        "target_id": 30207,
+        "target_cnt": 1,
+        "description": "Nature Staff"
+    },
+    {
+        "key": "sphere_30307",
+        "weight": 1,
+        "reels": [
+            18,
+            18,
+            18
+        ],
+        "prize_rank": "2",
+        "present_type": 7,
+        "target_id": 30307,
+        "target_cnt": 1,
+        "description": "Odd Armor"
+    },
+    {
+        "key": "sphere_30006",
+        "weight": 1,
+        "reels": [
+            18,
+            18,
+            18
+        ],
+        "prize_rank": "2",
+        "present_type": 7,
+        "target_id": 30006,
+        "target_cnt": 1,
+        "description": "Chosen Blade"
+    },
+    {
+        "key": "sphere_30106",
+        "weight": 1,
+        "reels": [
+            18,
+            18,
+            18
+        ],
+        "prize_rank": "2",
+        "present_type": 7,
+        "target_id": 30106,
+        "target_cnt": 1,
+        "description": "Grand Shield"
+    },
+    {
+        "key": "sphere_30206",
+        "weight": 1,
+        "reels": [
+            18,
+            18,
+            18
+        ],
+        "prize_rank": "2",
+        "present_type": 7,
+        "target_id": 30206,
+        "target_cnt": 1,
+        "description": "Worship Cane"
+    },
+    {
+        "key": "sphere_30306",
+        "weight": 1,
+        "reels": [
+            18,
+            18,
+            18
+        ],
+        "prize_rank": "2",
+        "present_type": 7,
+        "target_id": 30306,
+        "target_cnt": 1,
+        "description": "Dark Armor"
+    },
+    {
+        "key": "sphere_30005",
+        "weight": 1,
+        "reels": [
+            18,
+            18,
+            18
+        ],
+        "prize_rank": "2",
+        "present_type": 7,
+        "target_id": 30005,
+        "target_cnt": 1,
+        "description": "God Sword"
+    },
+    {
+        "key": "sphere_30105",
+        "weight": 1,
+        "reels": [
+            18,
+            18,
+            18
+        ],
+        "prize_rank": "2",
+        "present_type": 7,
+        "target_id": 30105,
+        "target_cnt": 1,
+        "description": "Dogma Shield"
+    },
+    {
+        "key": "sphere_30205",
+        "weight": 1,
+        "reels": [
+            18,
+            18,
+            18
+        ],
+        "prize_rank": "2",
+        "present_type": 7,
+        "target_id": 30205,
+        "target_cnt": 1,
+        "description": "Order Staff"
+    },
+    {
+        "key": "sphere_30305",
+        "weight": 1,
+        "reels": [
+            18,
+            18,
+            18
+        ],
+        "prize_rank": "2",
+        "present_type": 7,
+        "target_id": 30305,
+        "target_cnt": 1,
+        "description": "Ember Armor"
+    },
+    {
+        "key": "sphere_30004",
+        "weight": 1,
+        "reels": [
+            18,
+            18,
+            18
+        ],
+        "prize_rank": "2",
+        "present_type": 7,
+        "target_id": 30004,
+        "target_cnt": 1,
+        "description": "Divine Sword"
+    },
+    {
+        "key": "sphere_30104",
+        "weight": 1,
+        "reels": [
+            18,
+            18,
+            18
+        ],
+        "prize_rank": "2",
+        "present_type": 7,
+        "target_id": 30104,
+        "target_cnt": 1,
+        "description": "King Shield"
+    },
+    {
+        "key": "sphere_30204",
+        "weight": 1,
+        "reels": [
+            18,
+            18,
+            18
+        ],
+        "prize_rank": "2",
+        "present_type": 7,
+        "target_id": 30204,
+        "target_cnt": 1,
+        "description": "Godly Staff"
+    },
+    {
+        "key": "sphere_30304",
+        "weight": 1,
+        "reels": [
+            18,
+            18,
+            18
+        ],
+        "prize_rank": "2",
+        "present_type": 7,
+        "target_id": 30304,
+        "target_cnt": 1,
+        "description": "God Armor"
+    },
+    {
+        "key": "sphere_30003",
+        "weight": 1,
+        "reels": [
+            18,
+            18,
+            18
+        ],
+        "prize_rank": "2",
+        "present_type": 7,
+        "target_id": 30003,
+        "target_cnt": 1,
+        "description": "Dragon Blade"
+    },
+    {
+        "key": "sphere_30103",
+        "weight": 1,
+        "reels": [
+            18,
+            18,
+            18
+        ],
+        "prize_rank": "2",
+        "present_type": 7,
+        "target_id": 30103,
+        "target_cnt": 1,
+        "description": "Star Shield"
+    },
+    {
+        "key": "sphere_30203",
+        "weight": 1,
+        "reels": [
+            18,
+            18,
+            18
+        ],
+        "prize_rank": "2",
+        "present_type": 7,
+        "target_id": 30203,
+        "target_cnt": 1,
+        "description": "Sky Staff"
+    },
+    {
+        "key": "sphere_30303",
+        "weight": 1,
+        "reels": [
+            18,
+            18,
+            18
+        ],
+        "prize_rank": "2",
+        "present_type": 7,
+        "target_id": 30303,
+        "target_cnt": 1,
+        "description": "Shiny Armor"
+    },
+    {
+        "key": "item_70000",
+        "weight": 6,
+        "reels": [
+            13,
+            13,
+            13
+        ],
+        "prize_rank": "1",
+        "present_type": 4,
+        "target_id": 70000,
+        "target_cnt": 10,
+        "description": "Beacon x10"
+    },
+    {
+        "key": "item_70100",
+        "weight": 6,
+        "reels": [
+            13,
+            13,
+            13
+        ],
+        "prize_rank": "1",
+        "present_type": 4,
+        "target_id": 70100,
+        "target_cnt": 3,
+        "description": "Smoke Bomb x3"
+    },
+    {
+        "key": "item_70200",
+        "weight": 6,
+        "reels": [
+            13,
+            13,
+            13
+        ],
+        "prize_rank": "1",
+        "present_type": 4,
+        "target_id": 70200,
+        "target_cnt": 1,
+        "description": "Teleport x1"
+    },
+    {
+        "key": "item_70300",
+        "weight": 6,
+        "reels": [
+            13,
+            13,
+            13
+        ],
+        "prize_rank": "1",
+        "present_type": 4,
+        "target_id": 70300,
+        "target_cnt": 3,
+        "description": "God Crystal x3"
+    },
+    {
+        "key": "item_70400",
+        "weight": 6,
+        "reels": [
+            13,
+            13,
+            13
+        ],
+        "prize_rank": "1",
+        "present_type": 4,
+        "target_id": 70400,
+        "target_cnt": 2,
+        "description": "Atk Crystal x2"
+    },
+    {
+        "key": "item_70500",
+        "weight": 6,
+        "reels": [
+            13,
+            13,
+            13
+        ],
+        "prize_rank": "1",
+        "present_type": 4,
+        "target_id": 70500,
+        "target_cnt": 2,
+        "description": "Def Crystal x2"
+    },
+    {
+        "key": "item_70600",
+        "weight": 6,
+        "reels": [
+            13,
+            13,
+            13
+        ],
+        "prize_rank": "1",
+        "present_type": 4,
+        "target_id": 70600,
+        "target_cnt": 5,
+        "description": "Detector x5"
+    },
+    {
+        "key": "raid_medal",
+        "weight": 200,
+        "reels": [
+            1,
+            7,
+            82
+        ],
+        "prize_rank": "1",
+        "present_type": 12,
+        "target_id": 1,
+        "target_cnt": 1,
+        "description": "1 Raid Medal"
+    }
+]

@@ -1,0 +1,89 @@
+[
+    {
+        "key": "welcome_bronze",
+        "name": "Bronze Mystery Chest",
+        "text": "A modest chest left for new Summoners. Open it to see what Grand Gaia has spared you.",
+        "rank": "1",
+        "skin": "chest_bronze_thum.png",
+        "box_type": "1",
+        "lifetime_days": 30,
+        "rewards": [
+            {
+                "present_type": 3,
+                "target_id": 0,
+                "target_cnt": 50000,
+                "description": "50,000 Zel"
+            },
+            {
+                "present_type": 5,
+                "target_id": 800901,
+                "target_cnt": 5,
+                "description": "Ignis Shard x5"
+            }
+        ]
+    },
+    {
+        "key": "welcome_silver",
+        "name": "Silver Mystery Chest",
+        "text": "Heavier than it looks. Something in here was meant for a Summoner further along than you.",
+        "rank": "2",
+        "skin": "chest_silver_thum.png",
+        "box_type": "1",
+        "lifetime_days": 30,
+        "rewards": [
+            {
+                "present_type": 8,
+                "target_id": 0,
+                "target_cnt": 3,
+                "description": "3 Gems"
+            },
+            {
+                "present_type": 6,
+                "target_id": 750006,
+                "target_cnt": 1,
+                "description": "Rainbow Crystal"
+            },
+            {
+                "present_type": 5,
+                "target_id": 800907,
+                "target_cnt": 2,
+                "description": "Elementum Tome x2"
+            }
+        ]
+    },
+    {
+        "key": "welcome_gold",
+        "name": "Gold Mystery Chest",
+        "text": "The seal is unbroken. Whatever was put in here, nobody has come back for it.",
+        "rank": "3",
+        "skin": "chest_gold_thum.png",
+        "box_type": "1",
+        "lifetime_days": 30,
+        "rewards": [
+            {
+                "present_type": 8,
+                "target_id": 0,
+                "target_cnt": 5,
+                "description": "5 Gems"
+            },
+            {
+                "present_type": 6,
+                "target_id": 750003,
+                "target_cnt": 1,
+                "description": "Omni Frog"
+            },
+            {
+                "present_type": 6,
+                "target_id": 750005,
+                "target_cnt": 1,
+                "description": "Omni Emperor"
+            },
+            {
+                "present_type": 5,
+                "target_id": 800908,
+                "target_cnt": 3,
+                "description": "Geminus Tome x3"
+            }
+        ]
+    }
+]

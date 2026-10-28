@@ -1,0 +1,25 @@
+{
+  "about": "Weekly featured summon banners (gimuserver/gme/common/SummonRotation.hpp). Each game week (Monday 08:00 UTC) takes the next slot_tiles-count gates of pool, wrapping; the week starting first_week shows pool[0..]. THE POOL ORDER IS THE CALENDAR: reordering or inserting moves every future week. Append new gates at the end. A pool gate is open only in its featured weeks, even if a static tile names it. art: the tile image (content/gacha/); empty uses default_art (a \"Rare Summon\" tile, not the bare \"Special Summon\" strip).",
+  "first_week": "2026-10-26",
+  "grace_seconds": 900,
+  "default_art": "tile_rare_summon_bfr1.png",
+  "after_tile": 3,
+  "slot_tiles": [21, 22, 23],
+  "pool": [
+    { "gate": 8020, "art": "top_banner_Halloween_Lydia_2019.png" },
+    { "gate": 18530, "art": "top_banner_EU_Odin_2020.png" },
+    { "gate": 8560, "art": "tile_vocaloid_bfr2.png" },
+    { "gate": 16920, "art": "top_banner_TG_2_trimmed.png" },
+    { "gate": 11300, "art": "tile_ffbe_bfr1.png" },
+    { "gate": 15800, "art": "tile_deemo_bfr1.png" },
+    { "gate": 18850, "art": "top_banner_trigun_week1_2020.png" },
+    { "gate": 12810, "art": "tile_kof_bfr1.png" },
+    { "gate": 15480, "art": "tile_mha_bfr1.png" },
+    { "gate": 8210, "art": "top_banner_Seria_Vohu_2020.png" },
+    { "gate": 13620, "art": "tile_guiltygear_bfr2.png" },
+    { "gate": 14360, "art": "tile_fairytail_bfr2.png" },
+    { "gate": 15840, "art": "tile_chainchronicle_bfr1.png" },
+    { "gate": 10480, "art": "tile_smt_bfr1.png" },
+    { "gate": 15280, "art": "tile_collabmix_bfr1.png" }
+  ]
+}

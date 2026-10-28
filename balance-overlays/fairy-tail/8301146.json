@@ -1,0 +1,1535 @@
+{
+ "id": 8301146,
+ "name": "Towards Fantasia",
+ "zel": 0,
+ "karma": 0,
+ "exp": 4000,
+ "energy_cost": 25,
+ "stages": [
+  {
+   "is_boss": false,
+   "first_attack_rate": 0,
+   "battle_monsters": [
+    {
+     "id": 87500211,
+     "name": "Redcap Ally",
+     "unit_id": 10051,
+     "position": "160:240",
+     "hp": 10000,
+     "atk": 1100,
+     "def": 150,
+     "ai_id": 30000100,
+     "act_min": 1,
+     "act_max": 2,
+     "wait": 5,
+     "unit_drop_id": 10051,
+     "unit_drop_level": 5,
+     "unit_drop_type": 5,
+     "unit_drop_chance": 15,
+     "authored_capture": true,
+     "zel_max_drop": 380,
+     "zel_drop_count": 5,
+     "karma_max_drop": 160,
+     "karma_drop_count": 5,
+     "treasure_chest_chance": 19,
+     "treasure_drops": [
+      {
+       "target_type": 4,
+       "target_id": "10302",
+       "weight": 300,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "10000",
+       "weight": 100,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "801007",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801006",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801010",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801009",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801008",
+       "weight": 300,
+       "amount": 5
+      }
+     ],
+     "ailment_resists": {
+      "poison": 25,
+      "weak": 25,
+      "sick": 25,
+      "injury": 25,
+      "curse": 25,
+      "paralysis": 25
+     }
+    },
+    {
+     "id": 87500211,
+     "name": "Redcap Ally",
+     "unit_id": 10051,
+     "position": "215:300",
+     "hp": 10000,
+     "atk": 1100,
+     "def": 150,
+     "ai_id": 30000100,
+     "act_min": 1,
+     "act_max": 2,
+     "wait": 5,
+     "unit_drop_id": 10051,
+     "unit_drop_level": 5,
+     "unit_drop_type": 5,
+     "unit_drop_chance": 15,
+     "authored_capture": true,
+     "zel_max_drop": 380,
+     "zel_drop_count": 5,
+     "karma_max_drop": 160,
+     "karma_drop_count": 5,
+     "treasure_chest_chance": 19,
+     "treasure_drops": [
+      {
+       "target_type": 4,
+       "target_id": "10302",
+       "weight": 300,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "10000",
+       "weight": 100,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "801007",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801006",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801010",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801009",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801008",
+       "weight": 300,
+       "amount": 5
+      }
+     ],
+     "ailment_resists": {
+      "poison": 25,
+      "weak": 25,
+      "sick": 25,
+      "injury": 25,
+      "curse": 25,
+      "paralysis": 25
+     }
+    },
+    {
+     "id": 87500200,
+     "name": "Thief Henchman",
+     "unit_id": 10061,
+     "position": "160:360",
+     "hp": 6650,
+     "atk": 880,
+     "def": 320,
+     "ai_id": 30002000,
+     "act_min": 2,
+     "act_max": 3,
+     "wait": 5,
+     "unit_drop_id": 0,
+     "unit_drop_level": 0,
+     "unit_drop_type": 0,
+     "unit_drop_chance": 0,
+     "authored_capture": true,
+     "zel_max_drop": 600,
+     "zel_drop_count": 5,
+     "karma_max_drop": 260,
+     "karma_drop_count": 5,
+     "treasure_chest_chance": 20,
+     "treasure_drops": [
+      {
+       "target_type": 4,
+       "target_id": "10500",
+       "weight": 300,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "10100",
+       "weight": 200,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "801007",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801006",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801010",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801009",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801008",
+       "weight": 300,
+       "amount": 5
+      }
+     ],
+     "ailment_resists": {
+      "poison": 25,
+      "weak": 25,
+      "sick": 25,
+      "injury": 25,
+      "curse": 25,
+      "paralysis": 25
+     }
+    },
+    {
+     "id": 87500203,
+     "name": "Thief Assassin",
+     "unit_id": 10062,
+     "position": "105:300",
+     "hp": 7000,
+     "atk": 880,
+     "def": 260,
+     "ai_id": 841002100,
+     "act_min": 2,
+     "act_max": 2,
+     "wait": 5,
+     "unit_drop_id": 10062,
+     "unit_drop_level": 5,
+     "unit_drop_type": 5,
+     "unit_drop_chance": 15,
+     "authored_capture": true,
+     "zel_max_drop": 550,
+     "zel_drop_count": 5,
+     "karma_max_drop": 250,
+     "karma_drop_count": 5,
+     "treasure_chest_chance": 19,
+     "treasure_drops": [
+      {
+       "target_type": 4,
+       "target_id": "10702",
+       "weight": 200,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "10402",
+       "weight": 200,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "801007",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801006",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801010",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801009",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801008",
+       "weight": 300,
+       "amount": 5
+      }
+     ],
+     "ailment_resists": {
+      "poison": 25,
+      "weak": 25,
+      "sick": 25,
+      "injury": 25,
+      "curse": 25,
+      "paralysis": 25
+     },
+     "skills": [
+      {
+       "skill_id": 8410020,
+       "show_name": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "is_boss": false,
+   "first_attack_rate": 0,
+   "battle_monsters": [
+    {
+     "id": 87500211,
+     "name": "Redcap Ally",
+     "unit_id": 10051,
+     "position": "160:240",
+     "hp": 10000,
+     "atk": 1100,
+     "def": 150,
+     "ai_id": 30000100,
+     "act_min": 1,
+     "act_max": 2,
+     "wait": 5,
+     "unit_drop_id": 10051,
+     "unit_drop_level": 5,
+     "unit_drop_type": 5,
+     "unit_drop_chance": 15,
+     "authored_capture": true,
+     "zel_max_drop": 380,
+     "zel_drop_count": 5,
+     "karma_max_drop": 160,
+     "karma_drop_count": 5,
+     "treasure_chest_chance": 19,
+     "treasure_drops": [
+      {
+       "target_type": 4,
+       "target_id": "10302",
+       "weight": 300,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "10000",
+       "weight": 100,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "801007",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801006",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801010",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801009",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801008",
+       "weight": 300,
+       "amount": 5
+      }
+     ],
+     "ailment_resists": {
+      "poison": 25,
+      "weak": 25,
+      "sick": 25,
+      "injury": 25,
+      "curse": 25,
+      "paralysis": 25
+     }
+    },
+    {
+     "id": 87500203,
+     "name": "Thief Assassin",
+     "unit_id": 10062,
+     "position": "215:300",
+     "hp": 7000,
+     "atk": 880,
+     "def": 260,
+     "ai_id": 841002100,
+     "act_min": 2,
+     "act_max": 2,
+     "wait": 5,
+     "unit_drop_id": 10062,
+     "unit_drop_level": 5,
+     "unit_drop_type": 5,
+     "unit_drop_chance": 15,
+     "authored_capture": true,
+     "zel_max_drop": 550,
+     "zel_drop_count": 5,
+     "karma_max_drop": 250,
+     "karma_drop_count": 5,
+     "treasure_chest_chance": 19,
+     "treasure_drops": [
+      {
+       "target_type": 4,
+       "target_id": "10702",
+       "weight": 200,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "10402",
+       "weight": 200,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "801007",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801006",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801010",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801009",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801008",
+       "weight": 300,
+       "amount": 5
+      }
+     ],
+     "ailment_resists": {
+      "poison": 25,
+      "weak": 25,
+      "sick": 25,
+      "injury": 25,
+      "curse": 25,
+      "paralysis": 25
+     },
+     "skills": [
+      {
+       "skill_id": 8410020,
+       "show_name": true
+      }
+     ]
+    },
+    {
+     "id": 87500203,
+     "name": "Thief Assassin",
+     "unit_id": 10062,
+     "position": "160:360",
+     "hp": 11000,
+     "atk": 1000,
+     "def": 280,
+     "ai_id": 841002100,
+     "act_min": 2,
+     "act_max": 2,
+     "wait": 5,
+     "unit_drop_id": 10062,
+     "unit_drop_level": 5,
+     "unit_drop_type": 5,
+     "unit_drop_chance": 15,
+     "authored_capture": true,
+     "zel_max_drop": 550,
+     "zel_drop_count": 5,
+     "karma_max_drop": 250,
+     "karma_drop_count": 5,
+     "treasure_chest_chance": 19,
+     "treasure_drops": [
+      {
+       "target_type": 4,
+       "target_id": "10702",
+       "weight": 200,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "10402",
+       "weight": 200,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "801007",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801006",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801010",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801009",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801008",
+       "weight": 300,
+       "amount": 5
+      }
+     ],
+     "ailment_resists": {
+      "poison": 25,
+      "weak": 25,
+      "sick": 25,
+      "injury": 25,
+      "curse": 25,
+      "paralysis": 25
+     },
+     "skills": [
+      {
+       "skill_id": 8410020,
+       "show_name": true
+      }
+     ]
+    },
+    {
+     "id": 87500200,
+     "name": "Thief Henchman",
+     "unit_id": 10061,
+     "position": "105:300",
+     "hp": 6650,
+     "atk": 880,
+     "def": 320,
+     "ai_id": 30002000,
+     "act_min": 2,
+     "act_max": 3,
+     "wait": 5,
+     "unit_drop_id": 0,
+     "unit_drop_level": 0,
+     "unit_drop_type": 0,
+     "unit_drop_chance": 0,
+     "authored_capture": true,
+     "zel_max_drop": 600,
+     "zel_drop_count": 5,
+     "karma_max_drop": 260,
+     "karma_drop_count": 5,
+     "treasure_chest_chance": 20,
+     "treasure_drops": [
+      {
+       "target_type": 4,
+       "target_id": "10500",
+       "weight": 300,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "10100",
+       "weight": 200,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "801007",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801006",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801010",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801009",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801008",
+       "weight": 300,
+       "amount": 5
+      }
+     ],
+     "ailment_resists": {
+      "poison": 25,
+      "weak": 25,
+      "sick": 25,
+      "injury": 25,
+      "curse": 25,
+      "paralysis": 25
+     }
+    }
+   ]
+  },
+  {
+   "is_boss": false,
+   "first_attack_rate": 0,
+   "battle_monsters": [
+    {
+     "id": 87500208,
+     "name": "Enslaved Minotaur",
+     "unit_id": 40071,
+     "position": "160:225",
+     "hp": 75000,
+     "atk": 1100,
+     "def": 300,
+     "ai_id": 841002000,
+     "act_min": 1,
+     "act_max": 1,
+     "wait": 5,
+     "unit_drop_id": 40071,
+     "unit_drop_level": 3,
+     "unit_drop_type": 5,
+     "unit_drop_chance": 20,
+     "authored_capture": true,
+     "zel_max_drop": 800,
+     "zel_drop_count": 5,
+     "karma_max_drop": 320,
+     "karma_drop_count": 5,
+     "treasure_chest_chance": 23,
+     "treasure_drops": [
+      {
+       "target_type": 4,
+       "target_id": "10801",
+       "weight": 300,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "10300",
+       "weight": 500,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "801007",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801006",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801010",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801009",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801008",
+       "weight": 300,
+       "amount": 5
+      }
+     ],
+     "ailment_resists": {
+      "poison": 100,
+      "weak": 100,
+      "sick": 100,
+      "injury": 100,
+      "curse": 100,
+      "paralysis": 100
+     },
+     "skills": [
+      {
+       "skill_id": 8410022,
+       "show_name": true
+      }
+     ]
+    },
+    {
+     "id": 87500203,
+     "name": "Thief Assassin",
+     "unit_id": 10062,
+     "position": "250:277",
+     "hp": 11000,
+     "atk": 1000,
+     "def": 280,
+     "ai_id": 841002100,
+     "act_min": 2,
+     "act_max": 2,
+     "wait": 5,
+     "unit_drop_id": 10062,
+     "unit_drop_level": 4,
+     "unit_drop_type": 5,
+     "unit_drop_chance": 15,
+     "authored_capture": true,
+     "zel_max_drop": 550,
+     "zel_drop_count": 5,
+     "karma_max_drop": 250,
+     "karma_drop_count": 5,
+     "treasure_chest_chance": 19,
+     "treasure_drops": [
+      {
+       "target_type": 4,
+       "target_id": "10701",
+       "weight": 200,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "10401",
+       "weight": 200,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "801007",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801006",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801010",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801009",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801008",
+       "weight": 300,
+       "amount": 5
+      }
+     ],
+     "ailment_resists": {
+      "poison": 25,
+      "weak": 25,
+      "sick": 25,
+      "injury": 25,
+      "curse": 25,
+      "paralysis": 25
+     },
+     "skills": [
+      {
+       "skill_id": 8410020,
+       "show_name": true
+      }
+     ]
+    },
+    {
+     "id": 87500203,
+     "name": "Thief Assassin",
+     "unit_id": 10062,
+     "position": "216:361",
+     "hp": 11000,
+     "atk": 1000,
+     "def": 280,
+     "ai_id": 841002100,
+     "act_min": 2,
+     "act_max": 2,
+     "wait": 5,
+     "unit_drop_id": 10062,
+     "unit_drop_level": 4,
+     "unit_drop_type": 5,
+     "unit_drop_chance": 15,
+     "authored_capture": true,
+     "zel_max_drop": 550,
+     "zel_drop_count": 5,
+     "karma_max_drop": 250,
+     "karma_drop_count": 5,
+     "treasure_chest_chance": 19,
+     "treasure_drops": [
+      {
+       "target_type": 4,
+       "target_id": "10701",
+       "weight": 200,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "10401",
+       "weight": 200,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "801007",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801006",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801010",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801009",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801008",
+       "weight": 300,
+       "amount": 5
+      }
+     ],
+     "ailment_resists": {
+      "poison": 25,
+      "weak": 25,
+      "sick": 25,
+      "injury": 25,
+      "curse": 25,
+      "paralysis": 25
+     },
+     "skills": [
+      {
+       "skill_id": 8410020,
+       "show_name": true
+      }
+     ]
+    },
+    {
+     "id": 87500203,
+     "name": "Thief Assassin",
+     "unit_id": 10062,
+     "position": "104:361",
+     "hp": 11000,
+     "atk": 1000,
+     "def": 280,
+     "ai_id": 841002100,
+     "act_min": 2,
+     "act_max": 2,
+     "wait": 5,
+     "unit_drop_id": 10062,
+     "unit_drop_level": 4,
+     "unit_drop_type": 5,
+     "unit_drop_chance": 15,
+     "authored_capture": true,
+     "zel_max_drop": 550,
+     "zel_drop_count": 5,
+     "karma_max_drop": 250,
+     "karma_drop_count": 5,
+     "treasure_chest_chance": 19,
+     "treasure_drops": [
+      {
+       "target_type": 4,
+       "target_id": "10701",
+       "weight": 200,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "10401",
+       "weight": 200,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "801007",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801006",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801010",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801009",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801008",
+       "weight": 300,
+       "amount": 5
+      }
+     ],
+     "ailment_resists": {
+      "poison": 25,
+      "weak": 25,
+      "sick": 25,
+      "injury": 25,
+      "curse": 25,
+      "paralysis": 25
+     },
+     "skills": [
+      {
+       "skill_id": 8410020,
+       "show_name": true
+      }
+     ]
+    },
+    {
+     "id": 87500203,
+     "name": "Thief Assassin",
+     "unit_id": 10062,
+     "position": "70:277",
+     "hp": 11000,
+     "atk": 1000,
+     "def": 280,
+     "ai_id": 841002100,
+     "act_min": 2,
+     "act_max": 2,
+     "wait": 5,
+     "unit_drop_id": 10062,
+     "unit_drop_level": 4,
+     "unit_drop_type": 5,
+     "unit_drop_chance": 15,
+     "authored_capture": true,
+     "zel_max_drop": 550,
+     "zel_drop_count": 5,
+     "karma_max_drop": 250,
+     "karma_drop_count": 5,
+     "treasure_chest_chance": 19,
+     "treasure_drops": [
+      {
+       "target_type": 4,
+       "target_id": "10701",
+       "weight": 200,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "10401",
+       "weight": 200,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "801007",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801006",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801010",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801009",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801008",
+       "weight": 300,
+       "amount": 5
+      }
+     ],
+     "ailment_resists": {
+      "poison": 25,
+      "weak": 25,
+      "sick": 25,
+      "injury": 25,
+      "curse": 25,
+      "paralysis": 25
+     },
+     "skills": [
+      {
+       "skill_id": 8410020,
+       "show_name": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "is_boss": false,
+   "first_attack_rate": 0,
+   "battle_monsters": [
+    {
+     "id": 87500211,
+     "name": "Redcap Ally",
+     "unit_id": 10051,
+     "position": "160:240",
+     "hp": 10000,
+     "atk": 1100,
+     "def": 150,
+     "ai_id": 30000100,
+     "act_min": 1,
+     "act_max": 2,
+     "wait": 5,
+     "unit_drop_id": 10051,
+     "unit_drop_level": 5,
+     "unit_drop_type": 5,
+     "unit_drop_chance": 15,
+     "authored_capture": true,
+     "zel_max_drop": 380,
+     "zel_drop_count": 5,
+     "karma_max_drop": 160,
+     "karma_drop_count": 5,
+     "treasure_chest_chance": 19,
+     "treasure_drops": [
+      {
+       "target_type": 4,
+       "target_id": "10302",
+       "weight": 300,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "10000",
+       "weight": 100,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "801007",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801006",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801010",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801009",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801008",
+       "weight": 300,
+       "amount": 5
+      }
+     ],
+     "ailment_resists": {
+      "poison": 25,
+      "weak": 25,
+      "sick": 25,
+      "injury": 25,
+      "curse": 25,
+      "paralysis": 25
+     }
+    },
+    {
+     "id": 87500211,
+     "name": "Redcap Ally",
+     "unit_id": 10051,
+     "position": "215:300",
+     "hp": 10000,
+     "atk": 1100,
+     "def": 150,
+     "ai_id": 30000100,
+     "act_min": 1,
+     "act_max": 2,
+     "wait": 5,
+     "unit_drop_id": 10051,
+     "unit_drop_level": 5,
+     "unit_drop_type": 5,
+     "unit_drop_chance": 15,
+     "authored_capture": true,
+     "zel_max_drop": 380,
+     "zel_drop_count": 5,
+     "karma_max_drop": 160,
+     "karma_drop_count": 5,
+     "treasure_chest_chance": 19,
+     "treasure_drops": [
+      {
+       "target_type": 4,
+       "target_id": "10302",
+       "weight": 300,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "10000",
+       "weight": 100,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "801007",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801006",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801010",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801009",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801008",
+       "weight": 300,
+       "amount": 5
+      }
+     ],
+     "ailment_resists": {
+      "poison": 25,
+      "weak": 25,
+      "sick": 25,
+      "injury": 25,
+      "curse": 25,
+      "paralysis": 25
+     }
+    },
+    {
+     "id": 87500200,
+     "name": "Thief Henchman",
+     "unit_id": 10061,
+     "position": "160:360",
+     "hp": 6650,
+     "atk": 880,
+     "def": 320,
+     "ai_id": 30002000,
+     "act_min": 2,
+     "act_max": 3,
+     "wait": 5,
+     "unit_drop_id": 0,
+     "unit_drop_level": 0,
+     "unit_drop_type": 0,
+     "unit_drop_chance": 0,
+     "authored_capture": true,
+     "zel_max_drop": 600,
+     "zel_drop_count": 5,
+     "karma_max_drop": 260,
+     "karma_drop_count": 5,
+     "treasure_chest_chance": 20,
+     "treasure_drops": [
+      {
+       "target_type": 4,
+       "target_id": "10500",
+       "weight": 300,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "10100",
+       "weight": 200,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "801007",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801006",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801010",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801009",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801008",
+       "weight": 300,
+       "amount": 5
+      }
+     ],
+     "ailment_resists": {
+      "poison": 25,
+      "weak": 25,
+      "sick": 25,
+      "injury": 25,
+      "curse": 25,
+      "paralysis": 25
+     }
+    },
+    {
+     "id": 87500203,
+     "name": "Thief Assassin",
+     "unit_id": 10062,
+     "position": "105:300",
+     "hp": 7000,
+     "atk": 880,
+     "def": 260,
+     "ai_id": 841002100,
+     "act_min": 2,
+     "act_max": 2,
+     "wait": 5,
+     "unit_drop_id": 10062,
+     "unit_drop_level": 5,
+     "unit_drop_type": 5,
+     "unit_drop_chance": 15,
+     "authored_capture": true,
+     "zel_max_drop": 550,
+     "zel_drop_count": 5,
+     "karma_max_drop": 250,
+     "karma_drop_count": 5,
+     "treasure_chest_chance": 19,
+     "treasure_drops": [
+      {
+       "target_type": 4,
+       "target_id": "10702",
+       "weight": 200,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "10402",
+       "weight": 200,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "801007",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801006",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801010",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801009",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801008",
+       "weight": 300,
+       "amount": 5
+      }
+     ],
+     "ailment_resists": {
+      "poison": 25,
+      "weak": 25,
+      "sick": 25,
+      "injury": 25,
+      "curse": 25,
+      "paralysis": 25
+     },
+     "skills": [
+      {
+       "skill_id": 8410020,
+       "show_name": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "is_boss": true,
+   "first_attack_rate": 0,
+   "battle_monsters": [
+    {
+     "id": 90000023,
+     "name": "Natsu Dragneel (Omni)",
+     "unit_id": 810548,
+     "position": "180:302",
+     "hp": 75000,
+     "atk": 1100,
+     "def": 300,
+     "ai_id": 841002000,
+     "act_min": 1,
+     "act_max": 1,
+     "wait": 5,
+     "unit_drop_id": 0,
+     "unit_drop_level": 0,
+     "unit_drop_type": 0,
+     "unit_drop_chance": 0,
+     "authored_capture": true,
+     "zel_max_drop": 800,
+     "zel_drop_count": 5,
+     "karma_max_drop": 320,
+     "karma_drop_count": 5,
+     "treasure_chest_chance": 23,
+     "treasure_drops": [
+      {
+       "target_type": 4,
+       "target_id": "10801",
+       "weight": 300,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "10300",
+       "weight": 500,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "801007",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801006",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801010",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801009",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801008",
+       "weight": 300,
+       "amount": 5
+      }
+     ],
+     "ailment_resists": {
+      "poison": 100,
+      "weak": 100,
+      "sick": 100,
+      "injury": 100,
+      "curse": 100,
+      "paralysis": 100
+     },
+     "skills": [
+      {
+       "skill_id": 8410022,
+       "show_name": true
+      }
+     ]
+    },
+    {
+     "id": 90000026,
+     "name": "Gray Fullbuster (Omni)",
+     "unit_id": 820548,
+     "position": "120:248",
+     "hp": 75000,
+     "atk": 1100,
+     "def": 300,
+     "ai_id": 841002000,
+     "act_min": 1,
+     "act_max": 1,
+     "wait": 5,
+     "unit_drop_id": 0,
+     "unit_drop_level": 0,
+     "unit_drop_type": 0,
+     "unit_drop_chance": 0,
+     "authored_capture": true,
+     "zel_max_drop": 800,
+     "zel_drop_count": 5,
+     "karma_max_drop": 320,
+     "karma_drop_count": 5,
+     "treasure_chest_chance": 25,
+     "treasure_drops": [
+      {
+       "target_type": 4,
+       "target_id": "10203",
+       "weight": 500,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "10003",
+       "weight": 500,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "801007",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801006",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801010",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801009",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801008",
+       "weight": 300,
+       "amount": 5
+      }
+     ],
+     "ailment_resists": {
+      "poison": 100,
+      "weak": 100,
+      "sick": 100,
+      "injury": 100,
+      "curse": 100,
+      "paralysis": 100
+     },
+     "skills": [
+      {
+       "skill_id": 8410022,
+       "show_name": true
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "random_mimics": {
+  "chance": 0,
+  "monsters": []
+ }
+}

@@ -1,0 +1,808 @@
+{
+ "id": 8301147,
+ "name": "The Origin of Darkness",
+ "zel": 0,
+ "karma": 0,
+ "exp": 2000,
+ "energy_cost": 15,
+ "stages": [
+  {
+   "is_boss": false,
+   "first_attack_rate": 0,
+   "battle_monsters": [
+    {
+     "id": 60550,
+     "name": "Skeleton",
+     "unit_id": 60050,
+     "position": "160:240",
+     "hp": 2180,
+     "atk": 620,
+     "def": 39,
+     "ai_id": 30000100,
+     "act_min": 1,
+     "act_max": 1,
+     "wait": 5,
+     "unit_drop_id": 60050,
+     "unit_drop_level": 4,
+     "unit_drop_type": 5,
+     "unit_drop_chance": 25,
+     "authored_capture": true,
+     "zel_max_drop": 120,
+     "zel_drop_count": 5,
+     "karma_max_drop": 75,
+     "karma_drop_count": 5,
+     "treasure_chest_chance": 33,
+     "treasure_drops": [
+      {
+       "target_type": 1,
+       "weight": 500,
+       "amount": 500,
+       "target_id": ""
+      },
+      {
+       "target_type": 2,
+       "weight": 500,
+       "amount": 250,
+       "target_id": ""
+      },
+      {
+       "target_type": 3,
+       "weight": 500,
+       "amount": 10,
+       "target_id": ""
+      },
+      {
+       "target_type": 4,
+       "target_id": "10003",
+       "weight": 500,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "10204",
+       "weight": 700,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "801006",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801011",
+       "weight": 300,
+       "amount": 5
+      }
+     ]
+    },
+    {
+     "id": 50550,
+     "name": "Angel",
+     "unit_id": 50050,
+     "position": "215:300",
+     "hp": 2540,
+     "atk": 580,
+     "def": 160,
+     "ai_id": 30000100,
+     "act_min": 1,
+     "act_max": 1,
+     "wait": 5,
+     "unit_drop_id": 50050,
+     "unit_drop_level": 4,
+     "unit_drop_type": 5,
+     "unit_drop_chance": 25,
+     "authored_capture": true,
+     "zel_max_drop": 140,
+     "zel_drop_count": 5,
+     "karma_max_drop": 88,
+     "karma_drop_count": 5,
+     "treasure_chest_chance": 33,
+     "treasure_drops": [
+      {
+       "target_type": 1,
+       "weight": 500,
+       "amount": 500,
+       "target_id": ""
+      },
+      {
+       "target_type": 2,
+       "weight": 500,
+       "amount": 250,
+       "target_id": ""
+      },
+      {
+       "target_type": 3,
+       "weight": 500,
+       "amount": 10,
+       "target_id": ""
+      },
+      {
+       "target_type": 4,
+       "target_id": "10003",
+       "weight": 500,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "10205",
+       "weight": 700,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "801006",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801011",
+       "weight": 300,
+       "amount": 5
+      }
+     ]
+    },
+    {
+     "id": 60650,
+     "name": "Medusa",
+     "unit_id": 60061,
+     "position": "160:360",
+     "hp": 3710,
+     "atk": 720,
+     "def": 47,
+     "ai_id": 30002000,
+     "act_min": 1,
+     "act_max": 2,
+     "wait": 5,
+     "unit_drop_id": 60061,
+     "unit_drop_level": 4,
+     "unit_drop_type": 5,
+     "unit_drop_chance": 25,
+     "authored_capture": true,
+     "zel_max_drop": 204,
+     "zel_drop_count": 5,
+     "karma_max_drop": 128,
+     "karma_drop_count": 5,
+     "treasure_chest_chance": 31,
+     "treasure_drops": [
+      {
+       "target_type": 1,
+       "weight": 500,
+       "amount": 500,
+       "target_id": ""
+      },
+      {
+       "target_type": 2,
+       "weight": 500,
+       "amount": 250,
+       "target_id": ""
+      },
+      {
+       "target_type": 3,
+       "weight": 500,
+       "amount": 10,
+       "target_id": ""
+      },
+      {
+       "target_type": 4,
+       "target_id": "10201",
+       "weight": 500,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "10203",
+       "weight": 500,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "801006",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801011",
+       "weight": 300,
+       "amount": 5
+      }
+     ]
+    },
+    {
+     "id": 60750,
+     "name": "Lilin",
+     "unit_id": 60071,
+     "position": "105:300",
+     "hp": 4870,
+     "atk": 720,
+     "def": 120,
+     "ai_id": 30002000,
+     "act_min": 1,
+     "act_max": 1,
+     "wait": 5,
+     "unit_drop_id": 60071,
+     "unit_drop_level": 4,
+     "unit_drop_type": 5,
+     "unit_drop_chance": 25,
+     "authored_capture": true,
+     "zel_max_drop": 268,
+     "zel_drop_count": 5,
+     "karma_max_drop": 168,
+     "karma_drop_count": 5,
+     "treasure_chest_chance": 28,
+     "treasure_drops": [
+      {
+       "target_type": 1,
+       "weight": 500,
+       "amount": 500,
+       "target_id": ""
+      },
+      {
+       "target_type": 2,
+       "weight": 500,
+       "amount": 250,
+       "target_id": ""
+      },
+      {
+       "target_type": 3,
+       "weight": 500,
+       "amount": 10,
+       "target_id": ""
+      },
+      {
+       "target_type": 4,
+       "target_id": "10502",
+       "weight": 200,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "10605",
+       "weight": 500,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "801006",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801011",
+       "weight": 300,
+       "amount": 5
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "is_boss": false,
+   "first_attack_rate": 0,
+   "battle_monsters": [
+    {
+     "id": 60550,
+     "name": "Skeleton",
+     "unit_id": 60050,
+     "position": "160:240",
+     "hp": 2180,
+     "atk": 620,
+     "def": 39,
+     "ai_id": 30000100,
+     "act_min": 1,
+     "act_max": 1,
+     "wait": 5,
+     "unit_drop_id": 60050,
+     "unit_drop_level": 4,
+     "unit_drop_type": 5,
+     "unit_drop_chance": 25,
+     "authored_capture": true,
+     "zel_max_drop": 120,
+     "zel_drop_count": 5,
+     "karma_max_drop": 75,
+     "karma_drop_count": 5,
+     "treasure_chest_chance": 33,
+     "treasure_drops": [
+      {
+       "target_type": 1,
+       "weight": 500,
+       "amount": 500,
+       "target_id": ""
+      },
+      {
+       "target_type": 2,
+       "weight": 500,
+       "amount": 250,
+       "target_id": ""
+      },
+      {
+       "target_type": 3,
+       "weight": 500,
+       "amount": 10,
+       "target_id": ""
+      },
+      {
+       "target_type": 4,
+       "target_id": "10003",
+       "weight": 500,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "10204",
+       "weight": 700,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "801006",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801011",
+       "weight": 300,
+       "amount": 5
+      }
+     ]
+    },
+    {
+     "id": 50550,
+     "name": "Angel",
+     "unit_id": 50050,
+     "position": "215:300",
+     "hp": 2540,
+     "atk": 580,
+     "def": 160,
+     "ai_id": 30000100,
+     "act_min": 1,
+     "act_max": 1,
+     "wait": 5,
+     "unit_drop_id": 50050,
+     "unit_drop_level": 4,
+     "unit_drop_type": 5,
+     "unit_drop_chance": 25,
+     "authored_capture": true,
+     "zel_max_drop": 140,
+     "zel_drop_count": 5,
+     "karma_max_drop": 88,
+     "karma_drop_count": 5,
+     "treasure_chest_chance": 33,
+     "treasure_drops": [
+      {
+       "target_type": 1,
+       "weight": 500,
+       "amount": 500,
+       "target_id": ""
+      },
+      {
+       "target_type": 2,
+       "weight": 500,
+       "amount": 250,
+       "target_id": ""
+      },
+      {
+       "target_type": 3,
+       "weight": 500,
+       "amount": 10,
+       "target_id": ""
+      },
+      {
+       "target_type": 4,
+       "target_id": "10003",
+       "weight": 500,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "10205",
+       "weight": 700,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "801006",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801011",
+       "weight": 300,
+       "amount": 5
+      }
+     ]
+    },
+    {
+     "id": 60650,
+     "name": "Medusa",
+     "unit_id": 60061,
+     "position": "160:360",
+     "hp": 3710,
+     "atk": 720,
+     "def": 47,
+     "ai_id": 30002000,
+     "act_min": 1,
+     "act_max": 2,
+     "wait": 5,
+     "unit_drop_id": 60061,
+     "unit_drop_level": 4,
+     "unit_drop_type": 5,
+     "unit_drop_chance": 25,
+     "authored_capture": true,
+     "zel_max_drop": 204,
+     "zel_drop_count": 5,
+     "karma_max_drop": 128,
+     "karma_drop_count": 5,
+     "treasure_chest_chance": 31,
+     "treasure_drops": [
+      {
+       "target_type": 1,
+       "weight": 500,
+       "amount": 500,
+       "target_id": ""
+      },
+      {
+       "target_type": 2,
+       "weight": 500,
+       "amount": 250,
+       "target_id": ""
+      },
+      {
+       "target_type": 3,
+       "weight": 500,
+       "amount": 10,
+       "target_id": ""
+      },
+      {
+       "target_type": 4,
+       "target_id": "10201",
+       "weight": 500,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "10203",
+       "weight": 500,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "801006",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801011",
+       "weight": 300,
+       "amount": 5
+      }
+     ]
+    },
+    {
+     "id": 60750,
+     "name": "Lilin",
+     "unit_id": 60071,
+     "position": "105:300",
+     "hp": 4870,
+     "atk": 720,
+     "def": 120,
+     "ai_id": 30002000,
+     "act_min": 1,
+     "act_max": 1,
+     "wait": 5,
+     "unit_drop_id": 60071,
+     "unit_drop_level": 4,
+     "unit_drop_type": 5,
+     "unit_drop_chance": 25,
+     "authored_capture": true,
+     "zel_max_drop": 268,
+     "zel_drop_count": 5,
+     "karma_max_drop": 168,
+     "karma_drop_count": 5,
+     "treasure_chest_chance": 28,
+     "treasure_drops": [
+      {
+       "target_type": 1,
+       "weight": 500,
+       "amount": 500,
+       "target_id": ""
+      },
+      {
+       "target_type": 2,
+       "weight": 500,
+       "amount": 250,
+       "target_id": ""
+      },
+      {
+       "target_type": 3,
+       "weight": 500,
+       "amount": 10,
+       "target_id": ""
+      },
+      {
+       "target_type": 4,
+       "target_id": "10502",
+       "weight": 200,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "10605",
+       "weight": 500,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "801006",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801011",
+       "weight": 300,
+       "amount": 5
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "is_boss": false,
+   "first_attack_rate": 0,
+   "battle_monsters": [
+    {
+     "id": 40250,
+     "name": "Strategist Weiss",
+     "unit_id": 40022,
+     "position": "180:302",
+     "hp": 36330,
+     "atk": 830,
+     "def": 140,
+     "ai_id": 30500100,
+     "act_min": 2,
+     "act_max": 2,
+     "wait": 5,
+     "unit_drop_id": 40022,
+     "unit_drop_level": 1,
+     "unit_drop_type": 5,
+     "unit_drop_chance": 8,
+     "authored_capture": true,
+     "zel_max_drop": 2000,
+     "zel_drop_count": 15,
+     "karma_max_drop": 1500,
+     "karma_drop_count": 15,
+     "treasure_chest_chance": 100,
+     "treasure_drops": [
+      {
+       "target_type": 3,
+       "weight": 1000,
+       "amount": 15,
+       "target_id": ""
+      },
+      {
+       "target_type": 4,
+       "target_id": "10701",
+       "weight": 10,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "10000",
+       "weight": 50,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "801006",
+       "weight": 30,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801011",
+       "weight": 30,
+       "amount": 5
+      }
+     ],
+     "ailment_resists": {
+      "poison": 80,
+      "weak": 0,
+      "sick": 0,
+      "injury": 80,
+      "curse": 0,
+      "paralysis": 80
+     },
+     "skills": [
+      {
+       "skill_id": 1500,
+       "show_name": true
+      },
+      {
+       "skill_id": 40021,
+       "show_name": true
+      }
+     ]
+    },
+    {
+     "id": 40650,
+     "name": "Sky Pirate Grafl",
+     "unit_id": 40061,
+     "position": "120:248",
+     "hp": 5300,
+     "atk": 840,
+     "def": 100,
+     "ai_id": 30002000,
+     "act_min": 2,
+     "act_max": 2,
+     "wait": 5,
+     "unit_drop_id": 40061,
+     "unit_drop_level": 1,
+     "unit_drop_type": 5,
+     "unit_drop_chance": 15,
+     "authored_capture": true,
+     "zel_max_drop": 292,
+     "zel_drop_count": 5,
+     "karma_max_drop": 183,
+     "karma_drop_count": 5,
+     "treasure_chest_chance": 21,
+     "treasure_drops": [
+      {
+       "target_type": 4,
+       "target_id": "10500",
+       "weight": 500,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "10100",
+       "weight": 1000,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "801006",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801011",
+       "weight": 300,
+       "amount": 5
+      }
+     ]
+    },
+    {
+     "id": 40650,
+     "name": "Sky Pirate Grafl",
+     "unit_id": 40061,
+     "position": "96:352",
+     "hp": 5300,
+     "atk": 840,
+     "def": 100,
+     "ai_id": 30002000,
+     "act_min": 2,
+     "act_max": 2,
+     "wait": 5,
+     "unit_drop_id": 40061,
+     "unit_drop_level": 1,
+     "unit_drop_type": 5,
+     "unit_drop_chance": 15,
+     "authored_capture": true,
+     "zel_max_drop": 292,
+     "zel_drop_count": 5,
+     "karma_max_drop": 183,
+     "karma_drop_count": 5,
+     "treasure_chest_chance": 21,
+     "treasure_drops": [
+      {
+       "target_type": 4,
+       "target_id": "10500",
+       "weight": 500,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "10100",
+       "weight": 1000,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "801006",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801011",
+       "weight": 300,
+       "amount": 5
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "is_boss": true,
+   "first_attack_rate": 0,
+   "battle_monsters": [
+    {
+     "id": 61100,
+     "name": "Hell King Hades",
+     "unit_id": 60103,
+     "position": "180:302",
+     "hp": 29070,
+     "atk": 1010,
+     "def": 200,
+     "ai_id": 30500000,
+     "act_min": 1,
+     "act_max": 3,
+     "wait": 5,
+     "unit_drop_id": 0,
+     "unit_drop_level": 0,
+     "unit_drop_type": 0,
+     "unit_drop_chance": 0,
+     "authored_capture": true,
+     "zel_max_drop": 1600,
+     "zel_drop_count": 10,
+     "karma_max_drop": 1000,
+     "karma_drop_count": 10,
+     "treasure_chest_chance": 22,
+     "treasure_drops": [
+      {
+       "target_type": 4,
+       "target_id": "10003",
+       "weight": 800,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "10605",
+       "weight": 800,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "801006",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801011",
+       "weight": 300,
+       "amount": 5
+      }
+     ],
+     "ailment_resists": {
+      "poison": 100,
+      "weak": 100,
+      "sick": 100,
+      "injury": 100,
+      "curse": 100,
+      "paralysis": 0
+     },
+     "skills": [
+      {
+       "skill_id": 2900,
+       "show_name": true
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "random_mimics": {
+  "chance": 0,
+  "monsters": []
+ }
+}

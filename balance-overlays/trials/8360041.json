@@ -1,0 +1,118 @@
+{
+ "id": 8360041,
+ "name": "Trial No. X3",
+ "zel": 3000000,
+ "karma": 0,
+ "exp": 60000,
+ "energy_cost": 50,
+ "stages": [
+  {
+   "is_boss": true,
+   "first_attack_rate": 0,
+   "battle_monsters": [
+    {
+     "id": 87600400,
+     "name": "Temptress Xie'Jing",
+     "unit_id": 860158,
+     "position": "180:302",
+     "hp": 4250000,
+     "atk": 1300,
+     "def": 500,
+     "ai_id": 900000065,
+     "act_min": 4,
+     "act_max": 5,
+     "wait": 5,
+     "unit_drop_id": 0,
+     "unit_drop_level": 0,
+     "unit_drop_type": 0,
+     "unit_drop_chance": 0,
+     "authored_capture": true,
+     "zel_max_drop": 0,
+     "zel_drop_count": 0,
+     "karma_max_drop": 0,
+     "karma_drop_count": 0,
+     "treasure_chest_chance": 0,
+     "treasure_drops": [],
+     "ailment_resists": {
+      "poison": 90,
+      "weak": 100,
+      "sick": 100,
+      "injury": 100,
+      "curse": 100,
+      "paralysis": 100
+     },
+     "skills": [
+      {
+       "skill_id": 8400702,
+       "show_name": true
+      },
+      {
+       "skill_id": 8400711,
+       "show_name": true
+      },
+      {
+       "skill_id": 860156,
+       "show_name": true
+      },
+      {
+       "skill_id": 8400704,
+       "show_name": true
+      },
+      {
+       "skill_id": 1860156,
+       "show_name": true
+      },
+      {
+       "skill_id": 8400707,
+       "show_name": true
+      },
+      {
+       "skill_id": 8400703,
+       "show_name": true
+      },
+      {
+       "skill_id": 8400717,
+       "show_name": true
+      },
+      {
+       "skill_id": 8400712,
+       "show_name": true
+      },
+      {
+       "skill_id": 8400713,
+       "show_name": true
+      },
+      {
+       "skill_id": 8400709,
+       "show_name": true
+      },
+      {
+       "skill_id": 8400710,
+       "show_name": true
+      },
+      {
+       "skill_id": 8400714,
+       "show_name": true
+      },
+      {
+       "skill_id": 8400705,
+       "show_name": true
+      },
+      {
+       "skill_id": 8400708,
+       "show_name": true
+      },
+      {
+       "skill_id": 8400706,
+       "show_name": true
+      },
+      {
+       "skill_id": 8400716,
+       "show_name": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

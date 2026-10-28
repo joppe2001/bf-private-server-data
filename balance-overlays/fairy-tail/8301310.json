@@ -1,0 +1,991 @@
+{
+ "id": 8301310,
+ "name": "The Strength of Iron",
+ "zel": 5000,
+ "karma": 5000,
+ "exp": 5000,
+ "energy_cost": 40,
+ "stages": [
+  {
+   "is_boss": false,
+   "first_attack_rate": 0,
+   "battle_monsters": [
+    {
+     "id": 30550,
+     "name": "Mandragora",
+     "unit_id": 30050,
+     "position": "160:240",
+     "hp": 5730,
+     "atk": 680,
+     "def": 450,
+     "ai_id": 30000100,
+     "act_min": 1,
+     "act_max": 1,
+     "wait": 5,
+     "unit_drop_id": 30050,
+     "unit_drop_level": 4,
+     "unit_drop_type": 5,
+     "unit_drop_chance": 25,
+     "authored_capture": true,
+     "zel_max_drop": 136,
+     "zel_drop_count": 5,
+     "karma_max_drop": 85,
+     "karma_drop_count": 5,
+     "treasure_chest_chance": 34,
+     "treasure_drops": [
+      {
+       "target_type": 1,
+       "weight": 500,
+       "amount": 500,
+       "target_id": ""
+      },
+      {
+       "target_type": 2,
+       "weight": 500,
+       "amount": 250,
+       "target_id": ""
+      },
+      {
+       "target_type": 3,
+       "weight": 500,
+       "amount": 10,
+       "target_id": ""
+      },
+      {
+       "target_type": 4,
+       "target_id": "10201",
+       "weight": 500,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "10203",
+       "weight": 500,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "801006",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801007",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801008",
+       "weight": 300,
+       "amount": 5
+      }
+     ]
+    },
+    {
+     "id": 30550,
+     "name": "Mandragora",
+     "unit_id": 30050,
+     "position": "215:300",
+     "hp": 5730,
+     "atk": 680,
+     "def": 450,
+     "ai_id": 30000100,
+     "act_min": 1,
+     "act_max": 1,
+     "wait": 5,
+     "unit_drop_id": 30050,
+     "unit_drop_level": 4,
+     "unit_drop_type": 5,
+     "unit_drop_chance": 25,
+     "authored_capture": true,
+     "zel_max_drop": 136,
+     "zel_drop_count": 5,
+     "karma_max_drop": 85,
+     "karma_drop_count": 5,
+     "treasure_chest_chance": 34,
+     "treasure_drops": [
+      {
+       "target_type": 1,
+       "weight": 500,
+       "amount": 500,
+       "target_id": ""
+      },
+      {
+       "target_type": 2,
+       "weight": 500,
+       "amount": 250,
+       "target_id": ""
+      },
+      {
+       "target_type": 3,
+       "weight": 500,
+       "amount": 10,
+       "target_id": ""
+      },
+      {
+       "target_type": 4,
+       "target_id": "10201",
+       "weight": 500,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "10203",
+       "weight": 500,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "801006",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801007",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801008",
+       "weight": 300,
+       "amount": 5
+      }
+     ]
+    },
+    {
+     "id": 40850,
+     "name": "Sylph",
+     "unit_id": 40081,
+     "position": "160:360",
+     "hp": 10950,
+     "atk": 920,
+     "def": 590,
+     "ai_id": 30002000,
+     "act_min": 1,
+     "act_max": 1,
+     "wait": 5,
+     "unit_drop_id": 40081,
+     "unit_drop_level": 4,
+     "unit_drop_type": 5,
+     "unit_drop_chance": 25,
+     "authored_capture": true,
+     "zel_max_drop": 260,
+     "zel_drop_count": 5,
+     "karma_max_drop": 163,
+     "karma_drop_count": 5,
+     "treasure_chest_chance": 31,
+     "treasure_drops": [
+      {
+       "target_type": 1,
+       "weight": 500,
+       "amount": 500,
+       "target_id": ""
+      },
+      {
+       "target_type": 2,
+       "weight": 500,
+       "amount": 250,
+       "target_id": ""
+      },
+      {
+       "target_type": 3,
+       "weight": 500,
+       "amount": 10,
+       "target_id": ""
+      },
+      {
+       "target_type": 4,
+       "target_id": "10802",
+       "weight": 200,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "10603",
+       "weight": 500,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "801006",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801007",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801008",
+       "weight": 300,
+       "amount": 5
+      }
+     ]
+    },
+    {
+     "id": 40700,
+     "name": "Sky Boss Grafl",
+     "unit_id": 40062,
+     "position": "105:300",
+     "hp": 43810,
+     "atk": 910,
+     "def": 220,
+     "ai_id": 30500400,
+     "act_min": 2,
+     "act_max": 3,
+     "wait": 5,
+     "unit_drop_id": 40062,
+     "unit_drop_level": 1,
+     "unit_drop_type": 5,
+     "unit_drop_chance": 5,
+     "authored_capture": true,
+     "zel_max_drop": 1040,
+     "zel_drop_count": 10,
+     "karma_max_drop": 650,
+     "karma_drop_count": 10,
+     "treasure_chest_chance": 34,
+     "treasure_drops": [
+      {
+       "target_type": 1,
+       "weight": 500,
+       "amount": 500,
+       "target_id": ""
+      },
+      {
+       "target_type": 2,
+       "weight": 500,
+       "amount": 250,
+       "target_id": ""
+      },
+      {
+       "target_type": 3,
+       "weight": 500,
+       "amount": 10,
+       "target_id": ""
+      },
+      {
+       "target_type": 4,
+       "target_id": "10201",
+       "weight": 500,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "10203",
+       "weight": 500,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "801006",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801007",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801008",
+       "weight": 300,
+       "amount": 5
+      }
+     ],
+     "ailment_resists": {
+      "poison": 80,
+      "weak": 80,
+      "sick": 80,
+      "injury": 80,
+      "curse": 0,
+      "paralysis": 0
+     },
+     "skills": [
+      {
+       "skill_id": 6710,
+       "show_name": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "is_boss": false,
+   "first_attack_rate": 0,
+   "battle_monsters": [
+    {
+     "id": 10550,
+     "name": "Goblin",
+     "unit_id": 10050,
+     "position": "160:240",
+     "hp": 5050,
+     "atk": 710,
+     "def": 130,
+     "ai_id": 30000100,
+     "act_min": 1,
+     "act_max": 1,
+     "wait": 5,
+     "unit_drop_id": 10050,
+     "unit_drop_level": 4,
+     "unit_drop_type": 5,
+     "unit_drop_chance": 25,
+     "authored_capture": true,
+     "zel_max_drop": 120,
+     "zel_drop_count": 5,
+     "karma_max_drop": 75,
+     "karma_drop_count": 5,
+     "treasure_chest_chance": 33,
+     "treasure_drops": [
+      {
+       "target_type": 1,
+       "weight": 500,
+       "amount": 500,
+       "target_id": ""
+      },
+      {
+       "target_type": 2,
+       "weight": 500,
+       "amount": 250,
+       "target_id": ""
+      },
+      {
+       "target_type": 3,
+       "weight": 500,
+       "amount": 10,
+       "target_id": ""
+      },
+      {
+       "target_type": 4,
+       "target_id": "10302",
+       "weight": 400,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "10200",
+       "weight": 500,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "801006",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801007",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801008",
+       "weight": 300,
+       "amount": 5
+      }
+     ]
+    },
+    {
+     "id": 30550,
+     "name": "Mandragora",
+     "unit_id": 30050,
+     "position": "215:300",
+     "hp": 5730,
+     "atk": 680,
+     "def": 450,
+     "ai_id": 30000100,
+     "act_min": 1,
+     "act_max": 1,
+     "wait": 5,
+     "unit_drop_id": 30050,
+     "unit_drop_level": 4,
+     "unit_drop_type": 5,
+     "unit_drop_chance": 25,
+     "authored_capture": true,
+     "zel_max_drop": 136,
+     "zel_drop_count": 5,
+     "karma_max_drop": 85,
+     "karma_drop_count": 5,
+     "treasure_chest_chance": 34,
+     "treasure_drops": [
+      {
+       "target_type": 1,
+       "weight": 500,
+       "amount": 500,
+       "target_id": ""
+      },
+      {
+       "target_type": 2,
+       "weight": 500,
+       "amount": 250,
+       "target_id": ""
+      },
+      {
+       "target_type": 3,
+       "weight": 500,
+       "amount": 10,
+       "target_id": ""
+      },
+      {
+       "target_type": 4,
+       "target_id": "10201",
+       "weight": 500,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "10203",
+       "weight": 500,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "801006",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801007",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801008",
+       "weight": 300,
+       "amount": 5
+      }
+     ]
+    },
+    {
+     "id": 10650,
+     "name": "Thief Leon",
+     "unit_id": 10061,
+     "position": "160:360",
+     "hp": 8090,
+     "atk": 830,
+     "def": 270,
+     "ai_id": 30002000,
+     "act_min": 1,
+     "act_max": 2,
+     "wait": 5,
+     "unit_drop_id": 10061,
+     "unit_drop_level": 4,
+     "unit_drop_type": 5,
+     "unit_drop_chance": 25,
+     "authored_capture": true,
+     "zel_max_drop": 192,
+     "zel_drop_count": 5,
+     "karma_max_drop": 120,
+     "karma_drop_count": 5,
+     "treasure_chest_chance": 28,
+     "treasure_drops": [
+      {
+       "target_type": 1,
+       "weight": 500,
+       "amount": 500,
+       "target_id": ""
+      },
+      {
+       "target_type": 2,
+       "weight": 500,
+       "amount": 250,
+       "target_id": ""
+      },
+      {
+       "target_type": 3,
+       "weight": 500,
+       "amount": 10,
+       "target_id": ""
+      },
+      {
+       "target_type": 4,
+       "target_id": "10701",
+       "weight": 200,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "10401",
+       "weight": 200,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "801006",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801007",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801008",
+       "weight": 300,
+       "amount": 5
+      }
+     ]
+    },
+    {
+     "id": 10850,
+     "name": "Salamander",
+     "unit_id": 10081,
+     "position": "105:300",
+     "hp": 10110,
+     "atk": 880,
+     "def": 670,
+     "ai_id": 30002000,
+     "act_min": 1,
+     "act_max": 1,
+     "wait": 5,
+     "unit_drop_id": 10081,
+     "unit_drop_level": 4,
+     "unit_drop_type": 5,
+     "unit_drop_chance": 25,
+     "authored_capture": true,
+     "zel_max_drop": 240,
+     "zel_drop_count": 5,
+     "karma_max_drop": 150,
+     "karma_drop_count": 5,
+     "treasure_chest_chance": 31,
+     "treasure_drops": [
+      {
+       "target_type": 1,
+       "weight": 500,
+       "amount": 500,
+       "target_id": ""
+      },
+      {
+       "target_type": 2,
+       "weight": 500,
+       "amount": 250,
+       "target_id": ""
+      },
+      {
+       "target_type": 3,
+       "weight": 500,
+       "amount": 10,
+       "target_id": ""
+      },
+      {
+       "target_type": 4,
+       "target_id": "10402",
+       "weight": 200,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "10600",
+       "weight": 500,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "801006",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801007",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801008",
+       "weight": 300,
+       "amount": 5
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "is_boss": false,
+   "first_attack_rate": 0,
+   "battle_monsters": [
+    {
+     "id": 40550,
+     "name": "Harpy",
+     "unit_id": 40050,
+     "position": "160:240",
+     "hp": 4720,
+     "atk": 770,
+     "def": 89,
+     "ai_id": 30000100,
+     "act_min": 1,
+     "act_max": 1,
+     "wait": 5,
+     "unit_drop_id": 40050,
+     "unit_drop_level": 4,
+     "unit_drop_type": 5,
+     "unit_drop_chance": 25,
+     "authored_capture": true,
+     "zel_max_drop": 112,
+     "zel_drop_count": 5,
+     "karma_max_drop": 70,
+     "karma_drop_count": 5,
+     "treasure_chest_chance": 33,
+     "treasure_drops": [
+      {
+       "target_type": 1,
+       "weight": 500,
+       "amount": 500,
+       "target_id": ""
+      },
+      {
+       "target_type": 2,
+       "weight": 500,
+       "amount": 250,
+       "target_id": ""
+      },
+      {
+       "target_type": 3,
+       "weight": 500,
+       "amount": 10,
+       "target_id": ""
+      },
+      {
+       "target_type": 4,
+       "target_id": "10001",
+       "weight": 400,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "10203",
+       "weight": 500,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "801006",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801007",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801008",
+       "weight": 300,
+       "amount": 5
+      }
+     ]
+    },
+    {
+     "id": 30550,
+     "name": "Mandragora",
+     "unit_id": 30050,
+     "position": "215:300",
+     "hp": 5730,
+     "atk": 680,
+     "def": 450,
+     "ai_id": 30000100,
+     "act_min": 1,
+     "act_max": 1,
+     "wait": 5,
+     "unit_drop_id": 30050,
+     "unit_drop_level": 4,
+     "unit_drop_type": 5,
+     "unit_drop_chance": 25,
+     "authored_capture": true,
+     "zel_max_drop": 136,
+     "zel_drop_count": 5,
+     "karma_max_drop": 85,
+     "karma_drop_count": 5,
+     "treasure_chest_chance": 34,
+     "treasure_drops": [
+      {
+       "target_type": 1,
+       "weight": 500,
+       "amount": 500,
+       "target_id": ""
+      },
+      {
+       "target_type": 2,
+       "weight": 500,
+       "amount": 250,
+       "target_id": ""
+      },
+      {
+       "target_type": 3,
+       "weight": 500,
+       "amount": 10,
+       "target_id": ""
+      },
+      {
+       "target_type": 4,
+       "target_id": "10201",
+       "weight": 500,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "10203",
+       "weight": 500,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "801006",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801007",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801008",
+       "weight": 300,
+       "amount": 5
+      }
+     ]
+    },
+    {
+     "id": 40650,
+     "name": "Sky Pirate Grafl",
+     "unit_id": 40061,
+     "position": "160:360",
+     "hp": 9600,
+     "atk": 830,
+     "def": 190,
+     "ai_id": 30002000,
+     "act_min": 1,
+     "act_max": 2,
+     "wait": 5,
+     "unit_drop_id": 40061,
+     "unit_drop_level": 4,
+     "unit_drop_type": 5,
+     "unit_drop_chance": 25,
+     "authored_capture": true,
+     "zel_max_drop": 228,
+     "zel_drop_count": 5,
+     "karma_max_drop": 143,
+     "karma_drop_count": 5,
+     "treasure_chest_chance": 28,
+     "treasure_drops": [
+      {
+       "target_type": 1,
+       "weight": 500,
+       "amount": 500,
+       "target_id": ""
+      },
+      {
+       "target_type": 2,
+       "weight": 500,
+       "amount": 250,
+       "target_id": ""
+      },
+      {
+       "target_type": 3,
+       "weight": 500,
+       "amount": 10,
+       "target_id": ""
+      },
+      {
+       "target_type": 4,
+       "target_id": "10401",
+       "weight": 200,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "10801",
+       "weight": 200,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "801006",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801007",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801008",
+       "weight": 300,
+       "amount": 5
+      }
+     ]
+    },
+    {
+     "id": 40850,
+     "name": "Sylph",
+     "unit_id": 40081,
+     "position": "105:300",
+     "hp": 10950,
+     "atk": 920,
+     "def": 590,
+     "ai_id": 30002000,
+     "act_min": 1,
+     "act_max": 1,
+     "wait": 5,
+     "unit_drop_id": 40081,
+     "unit_drop_level": 4,
+     "unit_drop_type": 5,
+     "unit_drop_chance": 25,
+     "authored_capture": true,
+     "zel_max_drop": 260,
+     "zel_drop_count": 5,
+     "karma_max_drop": 163,
+     "karma_drop_count": 5,
+     "treasure_chest_chance": 31,
+     "treasure_drops": [
+      {
+       "target_type": 1,
+       "weight": 500,
+       "amount": 500,
+       "target_id": ""
+      },
+      {
+       "target_type": 2,
+       "weight": 500,
+       "amount": 250,
+       "target_id": ""
+      },
+      {
+       "target_type": 3,
+       "weight": 500,
+       "amount": 10,
+       "target_id": ""
+      },
+      {
+       "target_type": 4,
+       "target_id": "10802",
+       "weight": 200,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "10603",
+       "weight": 500,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "801006",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801007",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801008",
+       "weight": 300,
+       "amount": 5
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "is_boss": true,
+   "first_attack_rate": 0,
+   "battle_monsters": [
+    {
+     "id": 90000035,
+     "name": "Gajeel Redfox (Omni)",
+     "unit_id": 830648,
+     "position": "180:302",
+     "hp": 129740,
+     "atk": 1150,
+     "def": 590,
+     "ai_id": 30003200,
+     "act_min": 2,
+     "act_max": 2,
+     "wait": 5,
+     "unit_drop_id": 0,
+     "unit_drop_level": 0,
+     "unit_drop_type": 0,
+     "unit_drop_chance": 0,
+     "authored_capture": true,
+     "zel_max_drop": 3080,
+     "zel_drop_count": 15,
+     "karma_max_drop": 1925,
+     "karma_drop_count": 15,
+     "treasure_chest_chance": 34,
+     "treasure_drops": [
+      {
+       "target_type": 4,
+       "target_id": "800002",
+       "weight": 1000,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "801006",
+       "weight": 120,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801007",
+       "weight": 120,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801008",
+       "weight": 120,
+       "amount": 5
+      }
+     ],
+     "ailment_resists": {
+      "poison": 100,
+      "weak": 100,
+      "sick": 100,
+      "injury": 100,
+      "curse": 0,
+      "paralysis": 0
+     },
+     "skills": [
+      {
+       "skill_id": 1704,
+       "show_name": true
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "random_mimics": {
+  "chance": 0,
+  "monsters": []
+ }
+}

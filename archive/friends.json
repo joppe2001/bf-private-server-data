@@ -1,0 +1,29 @@
+{
+ "devs": [
+  {
+   "name": "Distance",
+   "base_unit_id": 60523,
+   "unit": "Inferno Elza"
+  },
+  {
+   "name": "Evan",
+   "base_unit_id": 50754,
+   "unit": "Noble Cavalier Krantz"
+  },
+  {
+   "name": "Ark",
+   "base_unit_id": 50285,
+   "unit": "Ark"
+  },
+  {
+   "name": "Dualdragoon",
+   "base_unit_id": 810104,
+   "unit": "Red Hood Ciara"
+  },
+  {
+   "name": "Tom",
+   "base_unit_id": 830115,
+   "unit": "Ageless Keeper Zeruiah"
+  }
+ ]
+}

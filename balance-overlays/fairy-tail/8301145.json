@@ -1,0 +1,738 @@
+{
+ "id": 8301145,
+ "name": "Let There Be Light",
+ "zel": 0,
+ "karma": 0,
+ "exp": 2500,
+ "energy_cost": 20,
+ "stages": [
+  {
+   "is_boss": false,
+   "first_attack_rate": 0,
+   "battle_monsters": [
+    {
+     "id": 20850,
+     "name": "Rantoul",
+     "unit_id": 20081,
+     "position": "160:240",
+     "hp": 5460,
+     "atk": 720,
+     "def": 400,
+     "ai_id": 30002000,
+     "act_min": 1,
+     "act_max": 1,
+     "wait": 5,
+     "unit_drop_id": 20081,
+     "unit_drop_level": 6,
+     "unit_drop_type": 5,
+     "unit_drop_chance": 15,
+     "authored_capture": true,
+     "zel_max_drop": 280,
+     "zel_drop_count": 5,
+     "karma_max_drop": 175,
+     "karma_drop_count": 5,
+     "treasure_chest_chance": 31,
+     "treasure_drops": [
+      {
+       "target_type": 1,
+       "weight": 500,
+       "amount": 500,
+       "target_id": ""
+      },
+      {
+       "target_type": 2,
+       "weight": 500,
+       "amount": 250,
+       "target_id": ""
+      },
+      {
+       "target_type": 3,
+       "weight": 500,
+       "amount": 10,
+       "target_id": ""
+      },
+      {
+       "target_type": 4,
+       "target_id": "10702",
+       "weight": 200,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "10601",
+       "weight": 500,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "801010",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801009",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801008",
+       "weight": 300,
+       "amount": 5
+      }
+     ]
+    },
+    {
+     "id": 20850,
+     "name": "Rantoul",
+     "unit_id": 20081,
+     "position": "215:300",
+     "hp": 5460,
+     "atk": 720,
+     "def": 400,
+     "ai_id": 30002000,
+     "act_min": 1,
+     "act_max": 1,
+     "wait": 5,
+     "unit_drop_id": 20081,
+     "unit_drop_level": 6,
+     "unit_drop_type": 5,
+     "unit_drop_chance": 15,
+     "authored_capture": true,
+     "zel_max_drop": 280,
+     "zel_drop_count": 5,
+     "karma_max_drop": 175,
+     "karma_drop_count": 5,
+     "treasure_chest_chance": 31,
+     "treasure_drops": [
+      {
+       "target_type": 1,
+       "weight": 500,
+       "amount": 500,
+       "target_id": ""
+      },
+      {
+       "target_type": 2,
+       "weight": 500,
+       "amount": 250,
+       "target_id": ""
+      },
+      {
+       "target_type": 3,
+       "weight": 500,
+       "amount": 10,
+       "target_id": ""
+      },
+      {
+       "target_type": 4,
+       "target_id": "10702",
+       "weight": 200,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "10601",
+       "weight": 500,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "801010",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801009",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801008",
+       "weight": 300,
+       "amount": 5
+      }
+     ]
+    },
+    {
+     "id": 50600,
+     "name": "Archangel",
+     "unit_id": 50051,
+     "position": "160:360",
+     "hp": 4140,
+     "atk": 660,
+     "def": 170,
+     "ai_id": 30000100,
+     "act_min": 1,
+     "act_max": 1,
+     "wait": 5,
+     "unit_drop_id": 50051,
+     "unit_drop_level": 6,
+     "unit_drop_type": 5,
+     "unit_drop_chance": 15,
+     "authored_capture": true,
+     "zel_max_drop": 212,
+     "zel_drop_count": 5,
+     "karma_max_drop": 133,
+     "karma_drop_count": 5,
+     "treasure_chest_chance": 34,
+     "treasure_drops": [
+      {
+       "target_type": 1,
+       "weight": 500,
+       "amount": 500,
+       "target_id": ""
+      },
+      {
+       "target_type": 2,
+       "weight": 500,
+       "amount": 250,
+       "target_id": ""
+      },
+      {
+       "target_type": 3,
+       "weight": 500,
+       "amount": 10,
+       "target_id": ""
+      },
+      {
+       "target_type": 4,
+       "target_id": "10000",
+       "weight": 300,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "10205",
+       "weight": 700,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "801010",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801009",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801008",
+       "weight": 300,
+       "amount": 5
+      }
+     ]
+    },
+    {
+     "id": 20650,
+     "name": "Pirate Verica",
+     "unit_id": 20061,
+     "position": "105:300",
+     "hp": 4680,
+     "atk": 730,
+     "def": 170,
+     "ai_id": 30002000,
+     "act_min": 1,
+     "act_max": 2,
+     "wait": 5,
+     "unit_drop_id": 20061,
+     "unit_drop_level": 6,
+     "unit_drop_type": 5,
+     "unit_drop_chance": 15,
+     "authored_capture": true,
+     "zel_max_drop": 240,
+     "zel_drop_count": 5,
+     "karma_max_drop": 150,
+     "karma_drop_count": 5,
+     "treasure_chest_chance": 34,
+     "treasure_drops": [
+      {
+       "target_type": 1,
+       "weight": 500,
+       "amount": 500,
+       "target_id": ""
+      },
+      {
+       "target_type": 2,
+       "weight": 500,
+       "amount": 250,
+       "target_id": ""
+      },
+      {
+       "target_type": 3,
+       "weight": 500,
+       "amount": 10,
+       "target_id": ""
+      },
+      {
+       "target_type": 4,
+       "target_id": "10902",
+       "weight": 800,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "10702",
+       "weight": 200,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "801010",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801009",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801008",
+       "weight": 300,
+       "amount": 5
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "is_boss": false,
+   "first_attack_rate": 0,
+   "battle_monsters": [
+    {
+     "id": 60800,
+     "name": "Succubus",
+     "unit_id": 60072,
+     "position": "180:302",
+     "hp": 19520,
+     "atk": 770,
+     "def": 120,
+     "ai_id": 30003100,
+     "act_min": 1,
+     "act_max": 2,
+     "wait": 5,
+     "unit_drop_id": 0,
+     "unit_drop_level": 0,
+     "unit_drop_type": 0,
+     "unit_drop_chance": 0,
+     "authored_capture": true,
+     "zel_max_drop": 1000,
+     "zel_drop_count": 10,
+     "karma_max_drop": 625,
+     "karma_drop_count": 10,
+     "treasure_chest_chance": 21,
+     "treasure_drops": [
+      {
+       "target_type": 4,
+       "target_id": "10605",
+       "weight": 500,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "10003",
+       "weight": 700,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "801010",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801009",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801008",
+       "weight": 300,
+       "amount": 5
+      }
+     ],
+     "ailment_resists": {
+      "poison": 50,
+      "weak": 50,
+      "sick": 50,
+      "injury": 10,
+      "curse": 80,
+      "paralysis": 80
+     },
+     "skills": [
+      {
+       "skill_id": 1850,
+       "show_name": true
+      }
+     ]
+    },
+    {
+     "id": 60800,
+     "name": "Succubus",
+     "unit_id": 60072,
+     "position": "120:248",
+     "hp": 19520,
+     "atk": 770,
+     "def": 120,
+     "ai_id": 30003100,
+     "act_min": 1,
+     "act_max": 2,
+     "wait": 5,
+     "unit_drop_id": 0,
+     "unit_drop_level": 0,
+     "unit_drop_type": 0,
+     "unit_drop_chance": 0,
+     "authored_capture": true,
+     "zel_max_drop": 1000,
+     "zel_drop_count": 10,
+     "karma_max_drop": 625,
+     "karma_drop_count": 10,
+     "treasure_chest_chance": 21,
+     "treasure_drops": [
+      {
+       "target_type": 4,
+       "target_id": "10605",
+       "weight": 500,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "10003",
+       "weight": 700,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "801010",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801009",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801008",
+       "weight": 300,
+       "amount": 5
+      }
+     ],
+     "ailment_resists": {
+      "poison": 50,
+      "weak": 50,
+      "sick": 50,
+      "injury": 10,
+      "curse": 80,
+      "paralysis": 80
+     },
+     "skills": [
+      {
+       "skill_id": 1850,
+       "show_name": true
+      }
+     ]
+    },
+    {
+     "id": 62300,
+     "name": "Dark Pot",
+     "unit_id": 60201,
+     "position": "96:352",
+     "hp": 24980,
+     "atk": 940,
+     "def": 210,
+     "ai_id": 30003200,
+     "act_min": 2,
+     "act_max": 2,
+     "wait": 5,
+     "unit_drop_id": 60201,
+     "unit_drop_level": 1,
+     "unit_drop_type": 5,
+     "unit_drop_chance": 100,
+     "authored_capture": true,
+     "zel_max_drop": 1280,
+     "zel_drop_count": 5,
+     "karma_max_drop": 800,
+     "karma_drop_count": 5,
+     "treasure_chest_chance": 14,
+     "treasure_drops": [
+      {
+       "target_type": 4,
+       "target_id": "10805",
+       "weight": 200,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "11005",
+       "weight": 300,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "801010",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801009",
+       "weight": 300,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801008",
+       "weight": 300,
+       "amount": 5
+      }
+     ],
+     "ailment_resists": {
+      "poison": 0,
+      "weak": 0,
+      "sick": 0,
+      "injury": 0,
+      "curse": 100,
+      "paralysis": 0
+     },
+     "skills": [
+      {
+       "skill_id": 1850,
+       "show_name": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "is_boss": false,
+   "first_attack_rate": 0,
+   "battle_monsters": [
+    {
+     "id": 87500108,
+     "name": "Sir Sancus Xenon Lv9",
+     "unit_id": 860015,
+     "position": "180:302",
+     "hp": 101480,
+     "atk": 1400,
+     "def": 660,
+     "ai_id": 845000200,
+     "act_min": 3,
+     "act_max": 3,
+     "wait": 5,
+     "unit_drop_id": 860015,
+     "unit_drop_level": 1,
+     "unit_drop_type": 5,
+     "unit_drop_chance": 20,
+     "authored_capture": true,
+     "zel_max_drop": 2350,
+     "zel_drop_count": 15,
+     "karma_max_drop": 2300,
+     "karma_drop_count": 15,
+     "treasure_chest_chance": 100,
+     "treasure_drops": [
+      {
+       "target_type": 1,
+       "weight": 500,
+       "amount": 4000,
+       "target_id": ""
+      },
+      {
+       "target_type": 2,
+       "weight": 500,
+       "amount": 700,
+       "target_id": ""
+      },
+      {
+       "target_type": 3,
+       "weight": 1000,
+       "amount": 18,
+       "target_id": ""
+      },
+      {
+       "target_type": 4,
+       "target_id": "800002",
+       "weight": 800,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "10606",
+       "weight": 800,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "801010",
+       "weight": 60,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801009",
+       "weight": 60,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801008",
+       "weight": 60,
+       "amount": 5
+      }
+     ],
+     "ailment_resists": {
+      "poison": 85,
+      "weak": 90,
+      "sick": 90,
+      "injury": 85,
+      "curse": 90,
+      "paralysis": 96
+     },
+     "skills": [
+      {
+       "skill_id": 8550021,
+       "show_name": true
+      },
+      {
+       "skill_id": 8550024,
+       "show_name": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "is_boss": true,
+   "first_attack_rate": 0,
+   "battle_monsters": [
+    {
+     "id": 90000024,
+     "name": "Lucy Heartfilia (Omni)",
+     "unit_id": 850548,
+     "position": "180:302",
+     "hp": 32000,
+     "atk": 1070,
+     "def": 440,
+     "ai_id": 30003200,
+     "act_min": 2,
+     "act_max": 3,
+     "wait": 5,
+     "unit_drop_id": 0,
+     "unit_drop_level": 0,
+     "unit_drop_type": 0,
+     "unit_drop_chance": 0,
+     "authored_capture": true,
+     "zel_max_drop": 1480,
+     "zel_drop_count": 10,
+     "karma_max_drop": 925,
+     "karma_drop_count": 10,
+     "treasure_chest_chance": 34,
+     "treasure_drops": [
+      {
+       "target_type": 4,
+       "target_id": "800002",
+       "weight": 1000,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "801010",
+       "weight": 120,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801009",
+       "weight": 120,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801008",
+       "weight": 120,
+       "amount": 5
+      }
+     ],
+     "skills": [
+      {
+       "skill_id": 1700,
+       "show_name": true
+      }
+     ]
+    },
+    {
+     "id": 90000025,
+     "name": "Erza Scarlet (Omni)",
+     "unit_id": 840548,
+     "position": "120:248",
+     "hp": 32000,
+     "atk": 1070,
+     "def": 440,
+     "ai_id": 30003200,
+     "act_min": 2,
+     "act_max": 3,
+     "wait": 5,
+     "unit_drop_id": 0,
+     "unit_drop_level": 0,
+     "unit_drop_type": 0,
+     "unit_drop_chance": 0,
+     "authored_capture": true,
+     "zel_max_drop": 1480,
+     "zel_drop_count": 10,
+     "karma_max_drop": 925,
+     "karma_drop_count": 10,
+     "treasure_chest_chance": 34,
+     "treasure_drops": [
+      {
+       "target_type": 4,
+       "target_id": "800002",
+       "weight": 1000,
+       "amount": 1
+      },
+      {
+       "target_type": 4,
+       "target_id": "801010",
+       "weight": 120,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801009",
+       "weight": 120,
+       "amount": 5
+      },
+      {
+       "target_type": 4,
+       "target_id": "801008",
+       "weight": 120,
+       "amount": 5
+      }
+     ],
+     "skills": [
+      {
+       "skill_id": 1700,
+       "show_name": true
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "random_mimics": {
+  "chance": 0,
+  "monsters": []
+ }
+}

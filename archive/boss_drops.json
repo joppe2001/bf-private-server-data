@@ -1,0 +1,5 @@
+{
+  "note": "Farmable bosses. A boss of an archive mission drawn as a normal unit drops its line's BASE form; chance_by_line_rarity[r] is the percent per run when the line's top form has rarity r (index 0 unused, 7 = 7 star, 8 = Omni). drop_merit_percent: what a mission-dropped copy trades in for, in percent of a summoned copy (at least 1 point). Read at server start.",
+  "chance_by_line_rarity": [0, 20, 20, 20, 20, 15, 8, 4, 2],
+  "drop_merit_percent": 25
+}

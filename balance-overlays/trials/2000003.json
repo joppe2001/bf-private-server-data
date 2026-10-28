@@ -1,0 +1,134 @@
+{
+ "id": 2000003,
+ "name": "Trial No. 004",
+ "zel": 3000000,
+ "karma": 0,
+ "exp": 60000,
+ "energy_cost": 50,
+ "stages": [
+  {
+   "is_boss": false,
+   "first_attack_rate": 0,
+   "battle_monsters": [
+    {
+     "id": 63650,
+     "name": "Mad God Zebra",
+     "unit_id": 60234,
+     "position": "180:302",
+     "hp": 400000,
+     "atk": 1300,
+     "def": 500,
+     "ai_id": 900000012,
+     "act_min": 4,
+     "act_max": 5,
+     "wait": 5,
+     "unit_drop_id": 0,
+     "unit_drop_level": 0,
+     "unit_drop_type": 0,
+     "unit_drop_chance": 0,
+     "authored_capture": true,
+     "zel_max_drop": 0,
+     "zel_drop_count": 0,
+     "karma_max_drop": 0,
+     "karma_drop_count": 0,
+     "treasure_chest_chance": 0,
+     "treasure_drops": [],
+     "ailment_resists": {
+      "poison": 90,
+      "weak": 100,
+      "sick": 100,
+      "injury": 100,
+      "curse": 100,
+      "paralysis": 100
+     },
+     "skills": [
+      {
+       "skill_id": 5640,
+       "show_name": true
+      },
+      {
+       "skill_id": 3215,
+       "show_name": true
+      },
+      {
+       "skill_id": 2101512,
+       "show_name": true
+      },
+      {
+       "skill_id": 215152,
+       "show_name": true
+      },
+      {
+       "skill_id": 2101514,
+       "show_name": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "is_boss": true,
+   "first_attack_rate": 0,
+   "battle_monsters": [
+    {
+     "id": 1600,
+     "name": "Cardes the Malevolent",
+     "unit_id": 60425,
+     "position": "180:302",
+     "hp": 400000,
+     "atk": 1300,
+     "def": 500,
+     "ai_id": 900000013,
+     "act_min": 4,
+     "act_max": 5,
+     "wait": 5,
+     "unit_drop_id": 0,
+     "unit_drop_level": 0,
+     "unit_drop_type": 0,
+     "unit_drop_chance": 0,
+     "authored_capture": true,
+     "zel_max_drop": 0,
+     "zel_drop_count": 0,
+     "karma_max_drop": 0,
+     "karma_drop_count": 0,
+     "treasure_chest_chance": 0,
+     "treasure_drops": [],
+     "ailment_resists": {
+      "poison": 90,
+      "weak": 100,
+      "sick": 100,
+      "injury": 100,
+      "curse": 100,
+      "paralysis": 100
+     },
+     "skills": [
+      {
+       "skill_id": 3166,
+       "show_name": true
+      },
+      {
+       "skill_id": 3167,
+       "show_name": true
+      },
+      {
+       "skill_id": 2051,
+       "show_name": true
+      },
+      {
+       "skill_id": 2001327,
+       "show_name": true
+      },
+      {
+       "skill_id": 215152,
+       "show_name": true
+      },
+      {
+       "skill_id": 2004970,
+       "show_name": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

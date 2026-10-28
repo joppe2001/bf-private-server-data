@@ -1,0 +1,397 @@
+[
+ {
+  "day": 1,
+  "rewards": [
+   {
+    "kind": "gem",
+    "name": "Gem",
+    "id": 0,
+    "count": 1
+   },
+   {
+    "kind": "token",
+    "name": "Burst Token",
+    "id": 61,
+    "count": 200
+   }
+  ]
+ },
+ {
+  "day": 2,
+  "rewards": [
+   {
+    "kind": "unit",
+    "name": "Miracle Totem",
+    "id": 50354,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "day": 3,
+  "rewards": [
+   {
+    "kind": "gem",
+    "name": "Gem",
+    "id": 0,
+    "count": 1
+   },
+   {
+    "kind": "token",
+    "name": "Burst Token",
+    "id": 61,
+    "count": 200
+   }
+  ]
+ },
+ {
+  "day": 4,
+  "rewards": [
+   {
+    "kind": "unit",
+    "name": "Metal God",
+    "id": 60134,
+    "count": 1
+   },
+   {
+    "kind": "unit",
+    "name": "Metal King",
+    "id": 60133,
+    "count": 2
+   }
+  ]
+ },
+ {
+  "day": 5,
+  "rewards": [
+   {
+    "kind": "gem",
+    "name": "Gem",
+    "id": 0,
+    "count": 1
+   },
+   {
+    "kind": "token",
+    "name": "Burst Token",
+    "id": 61,
+    "count": 400
+   }
+  ]
+ },
+ {
+  "day": 6,
+  "rewards": [
+   {
+    "kind": "ticket",
+    "name": "Summon Ticket",
+    "id": 0,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "day": 7,
+  "rewards": [
+   {
+    "kind": "gem",
+    "name": "Gem",
+    "id": 0,
+    "count": 1
+   },
+   {
+    "kind": "token",
+    "name": "Burst Token",
+    "id": 61,
+    "count": 400
+   }
+  ]
+ },
+ {
+  "day": 8,
+  "rewards": [
+   {
+    "kind": "unit",
+    "name": "Fire Totem",
+    "id": 10133,
+    "count": 1
+   },
+   {
+    "kind": "unit",
+    "name": "Thunder Totem",
+    "id": 40133,
+    "count": 1
+   },
+   {
+    "kind": "unit",
+    "name": "Earth Totem",
+    "id": 30133,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "day": 9,
+  "rewards": [
+   {
+    "kind": "gem",
+    "name": "Gem",
+    "id": 0,
+    "count": 1
+   },
+   {
+    "kind": "token",
+    "name": "Burst Token",
+    "id": 61,
+    "count": 400
+   }
+  ]
+ },
+ {
+  "day": 10,
+  "rewards": [
+   {
+    "kind": "unit",
+    "name": "Metal Ghost",
+    "id": 60132,
+    "count": 5
+   },
+   {
+    "kind": "unit",
+    "name": "Jewel Ghost",
+    "id": 50131,
+    "count": 5
+   }
+  ]
+ },
+ {
+  "day": 11,
+  "rewards": [
+   {
+    "kind": "gem",
+    "name": "Gem",
+    "id": 0,
+    "count": 1
+   },
+   {
+    "kind": "token",
+    "name": "Burst Token",
+    "id": 61,
+    "count": 400
+   }
+  ]
+ },
+ {
+  "day": 12,
+  "rewards": [
+   {
+    "kind": "ticket",
+    "name": "Summon Ticket",
+    "id": 0,
+    "count": 1
+   },
+   {
+    "kind": "selector",
+    "name": "Special Weekly Rotation 6★ Selector",
+    "id": 17,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "day": 13,
+  "rewards": [
+   {
+    "kind": "gem",
+    "name": "Gem",
+    "id": 0,
+    "count": 1
+   },
+   {
+    "kind": "token",
+    "name": "Burst Token",
+    "id": 61,
+    "count": 400
+   }
+  ]
+ },
+ {
+  "day": 14,
+  "rewards": [
+   {
+    "kind": "unit",
+    "name": "Burst Frog",
+    "id": 10312,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "day": 15,
+  "rewards": [
+   {
+    "kind": "gem",
+    "name": "Gem",
+    "id": 0,
+    "count": 1
+   },
+   {
+    "kind": "token",
+    "name": "Burst Token",
+    "id": 61,
+    "count": 400
+   }
+  ]
+ },
+ {
+  "day": 16,
+  "rewards": [
+   {
+    "kind": "unit",
+    "name": "Water Totem",
+    "id": 20133,
+    "count": 1
+   },
+   {
+    "kind": "unit",
+    "name": "Light Totem",
+    "id": 50123,
+    "count": 1
+   },
+   {
+    "kind": "unit",
+    "name": "Dark Totem",
+    "id": 60123,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "day": 17,
+  "rewards": [
+   {
+    "kind": "gem",
+    "name": "Gem",
+    "id": 0,
+    "count": 1
+   },
+   {
+    "kind": "token",
+    "name": "Burst Token",
+    "id": 61,
+    "count": 400
+   }
+  ]
+ },
+ {
+  "day": 18,
+  "rewards": [
+   {
+    "kind": "unit",
+    "name": "Miracle Totem",
+    "id": 50354,
+    "count": 5
+   }
+  ]
+ },
+ {
+  "day": 19,
+  "rewards": [
+   {
+    "kind": "gem",
+    "name": "Gem",
+    "id": 0,
+    "count": 1
+   },
+   {
+    "kind": "token",
+    "name": "Burst Token",
+    "id": 61,
+    "count": 400
+   }
+  ]
+ },
+ {
+  "day": 20,
+  "rewards": [
+   {
+    "kind": "ticket",
+    "name": "Summon Ticket",
+    "id": 0,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "day": 21,
+  "rewards": [
+   {
+    "kind": "gem",
+    "name": "Gem",
+    "id": 0,
+    "count": 1
+   },
+   {
+    "kind": "token",
+    "name": "Burst Token",
+    "id": 61,
+    "count": 400
+   }
+  ]
+ },
+ {
+  "day": 22,
+  "rewards": [
+   {
+    "kind": "unit",
+    "name": "Burst Emperor",
+    "id": 10313,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "day": 23,
+  "rewards": [
+   {
+    "kind": "gem",
+    "name": "Gem",
+    "id": 0,
+    "count": 1
+   },
+   {
+    "kind": "token",
+    "name": "Burst Token",
+    "id": 61,
+    "count": 500
+   }
+  ]
+ },
+ {
+  "day": 24,
+  "rewards": [
+   {
+    "kind": "selector",
+    "name": "Special Weekly Rotation 6★ Selector",
+    "id": 17,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "day": 25,
+  "rewards": [
+   {
+    "kind": "gem",
+    "name": "Gem",
+    "id": 0,
+    "count": 1
+   },
+   {
+    "kind": "token",
+    "name": "Burst Token",
+    "id": 61,
+    "count": 500
+   }
+  ]
+ }
+]
